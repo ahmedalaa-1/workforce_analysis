@@ -544,13 +544,16 @@ include:
 ```text
 📦 Workforce-Analytics
 │
-├── 📂 Dashboard
+├── 📂 Project file
 │   └── Workforce Analytics Dashboard.pbix
 │
 ├── 📂 Dataset
-│   └── dataset.xlsx
+│   └── dataset.CSV
+|
+📂 Datamodel
+│   └── datamodel.png
 │
-├── 📂 Images
+├── 📂 Dashboard
 │   ├── page-1-home.png
 │   ├── page-2-overview.png
 │   ├── page-3-distribution.png
