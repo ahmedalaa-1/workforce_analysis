@@ -1,0 +1,501 @@
+﻿employee_id,employee_name_en,employee_name_ar,department_id,job_title_en,job_title_ar,job_grade,employment_type,nationality,nationality_ar,is_saudi,gender,date_of_birth,hire_date,termination_date,employment_status,work_city,work_city_ar,basic_salary_sar,housing_allowance_sar,transport_allowance_sar,manager_id,performance_rating
+EMP-0001,Mona Saleh,منى صالح,DEP-01,Operations Director,مدير تنفيذي للعمليات,G10,Full-time,Saudi,سعودي,Yes,Female,16-07-1983,15-01-2019,,Active,Al Khobar,الخبر,35400,8850,1200,,Needs Improvement
+EMP-0002,Rana Al Harbi,رنا الحربي,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Saudi,سعودي,Yes,Female,16-11-1989,26-05-2026,,Active,Al Khobar,الخبر,4250,1063,425,EMP-0001,Under Review
+EMP-0003,Asif Raza,آصف رضا,DEP-01,Shift Supervisor,مشرف وردية,G05,Contract,Pakistani,باكستاني,No,Male,13-01-1986,31-10-2021,,Active,Jubail,الجبيل,8700,2175,870,EMP-0001,Outstanding
+EMP-0004,Sultan Al Subaie,سلطان السبيعي,DEP-01,Operations Assistant,مساعد عمليات,G02,Part-time,Saudi,سعودي,Yes,Male,8/12/1996,6/7/2025,,Active,Yanbu,ينبع,3500,875,350,EMP-0001,Meets Expectations
+EMP-0005,Omar Saleh,عمر صالح,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Egyptian,مصري,No,Male,3/10/1990,29-03-2019,,Active,Dammam,الدمام,3450,863,345,EMP-0001,Meets Expectations
+EMP-0006,Nasser Al Subaie,ناصر السبيعي,DEP-01,Operations Assistant,مساعد عمليات,G02,Contract,Saudi,سعودي,Yes,Male,8/6/1982,25-08-2018,,Active,Jubail,الجبيل,3200,800,320,EMP-0001,Meets Expectations
+EMP-0007,Grace Reyes,غريس رييس,DEP-01,Operations Officer,أخصائي عمليات,G04,Full-time,Filipino,فلبيني,No,Female,26-07-1991,9/5/2025,,Active,Mecca,مكة المكرمة,8450,2113,845,EMP-0001,Exceeds Expectations
+EMP-0008,Noura Al Malki,نورة المالكي,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Saudi,سعودي,Yes,Female,9/9/1991,6/11/2022,,Active,Jeddah,جدة,4650,1163,465,EMP-0001,Meets Expectations
+EMP-0009,Rayan Al Otaibi,ريان العتيبي,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Saudi,سعودي,Yes,Male,22-02-1987,20-01-2024,,Active,Abha,أبها,3800,950,380,EMP-0001,Meets Expectations
+EMP-0010,Rayan Al Ghamdi,ريان الغامدي,DEP-01,Operations Manager,مدير عمليات,G08,Full-time,Saudi,سعودي,Yes,Male,12/7/1989,1/3/2022,,Active,Jubail,الجبيل,29350,7338,1200,EMP-0001,Needs Improvement
+EMP-0011,Omar Al Anazi,عمر العنزي,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Saudi,سعودي,Yes,Male,12/11/2004,8/11/2025,,Active,Medina,المدينة المنورة,4300,1075,430,EMP-0001,Meets Expectations
+EMP-0012,Rahim Hossain,رحيم حسين,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Bangladeshi,بنغلاديشي,No,Male,2/6/2002,20-05-2026,,Active,Jubail,الجبيل,4600,1150,460,EMP-0001,Exceeds Expectations
+EMP-0013,Vijay Nair,فيجاي ناير,DEP-01,Operations Manager,مدير عمليات,G08,Full-time,Indian,هندي,No,Male,14-02-1988,17-02-2026,,Active,Jeddah,جدة,27950,6988,1200,EMP-0001,Meets Expectations
+EMP-0014,Faisal Al Dossari,فيصل الدوسري,DEP-01,Shift Supervisor,مشرف وردية,G05,Full-time,Saudi,سعودي,Yes,Male,1/11/1991,14-02-2020,,Active,Jubail,الجبيل,9500,2375,950,EMP-0001,Meets Expectations
+EMP-0015,Sultan Al Subaie,سلطان السبيعي,DEP-01,Operations Officer,أخصائي عمليات,G04,Contract,Saudi,سعودي,Yes,Male,2/10/1996,29-09-2023,,Active,Medina,المدينة المنورة,8000,2000,800,EMP-0001,Meets Expectations
+EMP-0016,Mizanur Miah,ميزان الرحمن ميا,DEP-01,Operations Officer,أخصائي عمليات,G04,Full-time,Bangladeshi,بنغلاديشي,No,Male,25-09-1998,24-11-2019,,Active,Mecca,مكة المكرمة,8850,2213,885,EMP-0001,Meets Expectations
+EMP-0017,Turki Mansour,تركي منصور,DEP-01,Operations Officer,أخصائي عمليات,G04,Full-time,Yemeni,يمني,No,Male,15-11-1987,14-05-2020,,Active,Abha,أبها,6600,1650,660,EMP-0001,Under Review
+EMP-0018,Yousef Al Harbi,يوسف الحربي,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Saudi,سعودي,Yes,Male,29-10-1995,23-04-2018,,Active,Tabuk,تبوك,3350,838,335,EMP-0001,Exceeds Expectations
+EMP-0019,Reem Al Balawi,ريم البلوي,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Saudi,سعودي,Yes,Female,26-09-1998,11/11/2021,,Active,Yanbu,ينبع,4700,1175,470,EMP-0001,Exceeds Expectations
+EMP-0020,Mahmoud Al Harbi,محمود الحربي,DEP-01,Shift Supervisor,مشرف وردية,G05,Full-time,Egyptian,مصري,No,Male,4/10/1987,1/9/2024,,Active,Tabuk,تبوك,11450,2863,1145,EMP-0001,Meets Expectations
+EMP-0021,Sara Al Malki,سارة المالكي,DEP-01,Operations Officer,أخصائي عمليات,G04,Full-time,Saudi,سعودي,Yes,Female,28-04-1996,16-05-2020,,Active,Dammam,الدمام,8800,2200,880,EMP-0001,Exceeds Expectations
+EMP-0022,Ibrahim Khalil,إبراهيم خليل,DEP-01,Shift Supervisor,مشرف وردية,G05,Full-time,Saudi,سعودي,Yes,Male,28-01-1999,17-02-2021,,Active,Medina,المدينة المنورة,11500,2875,1150,EMP-0001,Meets Expectations
+EMP-0023,Faruk Hossain,فاروق حسين,DEP-01,Operations Assistant,مساعد عمليات,G02,Contract,Bangladeshi,بنغلاديشي,No,Male,13-06-1996,7/8/2020,,Active,Dammam,الدمام,3400,850,340,EMP-0001,Meets Expectations
+EMP-0024,Bandar Al Anazi,بندر العنزي,DEP-01,Operations Manager,مدير عمليات,G08,Full-time,Saudi,سعودي,Yes,Male,19-08-1976,16-05-2017,,Active,Riyadh,الرياض,23700,5925,1200,EMP-0001,Meets Expectations
+EMP-0025,Vijay Iyer,فيجاي أيار,DEP-01,Operations Officer,أخصائي عمليات,G04,Full-time,Indian,هندي,No,Male,27-01-2002,13-04-2024,,Active,Abha,أبها,6000,1500,600,EMP-0001,Needs Improvement
+EMP-0026,Ghada Al Harbi,غادة الحربي,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Saudi,سعودي,Yes,Female,5/12/1998,25-10-2020,,Active,Jeddah,جدة,3300,825,330,EMP-0001,Meets Expectations
+EMP-0027,Ibrahim Al Shehri,إبراهيم الشهري,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Egyptian,مصري,No,Male,26-07-1983,22-03-2018,,Active,Abha,أبها,3350,838,335,EMP-0001,Meets Expectations
+EMP-0028,Faruk Sarker,فاروق ساركار,DEP-01,Shift Supervisor,مشرف وردية,G05,Full-time,Bangladeshi,بنغلاديشي,No,Male,14-10-1984,4/9/2018,,Active,Yanbu,ينبع,9000,2250,900,EMP-0001,Meets Expectations
+EMP-0029,Mahmoud Al Harbi,محمود الحربي,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Saudi,سعودي,Yes,Male,2/6/1996,18-11-2021,22-06-2026,Retired,Yanbu,ينبع,3550,888,355,EMP-0001,Exceeds Expectations
+EMP-0030,Majed Al Shehri,ماجد الشهري,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Saudi,سعودي,Yes,Male,28-01-1987,30-07-2021,,Active,Dammam,الدمام,4550,1138,455,EMP-0001,Meets Expectations
+EMP-0031,Hassan Al Balawi,حسن البلوي,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Saudi,سعودي,Yes,Male,8/2/1982,18-04-2020,,Active,Yanbu,ينبع,3800,950,380,EMP-0001,Exceeds Expectations
+EMP-0032,Kashif Butt,كاشف بت,DEP-01,Shift Supervisor,مشرف وردية,G05,Full-time,Pakistani,باكستاني,No,Male,8/4/2000,28-10-2021,,Active,Medina,المدينة المنورة,12650,3163,1200,EMP-0001,Exceeds Expectations
+EMP-0033,Imran Chaudhry,عمران تشودري,DEP-01,Shift Supervisor,مشرف وردية,G05,Contract,Pakistani,باكستاني,No,Male,18-10-1997,28-12-2025,,Active,Abha,أبها,11750,2938,1175,EMP-0001,Meets Expectations
+EMP-0034,Abdullah Al Balawi,عبدالله البلوي,DEP-01,Shift Supervisor,مشرف وردية,G05,Full-time,Egyptian,مصري,No,Male,22-01-1995,22-04-2023,,Active,Al Khobar,الخبر,11650,2913,1165,EMP-0001,Meets Expectations
+EMP-0035,Khalid Saleh,خالد صالح,DEP-01,Operations Officer,أخصائي عمليات,G04,Full-time,Egyptian,مصري,No,Male,10/5/1994,13-06-2022,,Active,Dammam,الدمام,7300,1825,730,EMP-0001,Exceeds Expectations
+EMP-0036,Yousef Fathi,يوسف فتحي,DEP-01,Operations Officer,أخصائي عمليات,G04,Full-time,Saudi,سعودي,Yes,Male,8/3/2001,19-04-2024,,Active,Medina,المدينة المنورة,6950,1738,695,EMP-0001,Exceeds Expectations
+EMP-0037,Yousef Al Ghamdi,يوسف الغامدي,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Egyptian,مصري,No,Male,1/10/1983,25-04-2018,,Active,Mecca,مكة المكرمة,3550,888,355,EMP-0001,Exceeds Expectations
+EMP-0038,Mohammed Al Shehri,محمد الشهري,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Egyptian,مصري,No,Male,30-11-1990,14-09-2019,,Active,Abha,أبها,4400,1100,440,EMP-0001,Meets Expectations
+EMP-0039,Saud Al Balawi,سعود البلوي,DEP-01,Operations Officer,أخصائي عمليات,G04,Full-time,Saudi,سعودي,Yes,Male,7/1/1990,24-02-2020,,Active,Riyadh,الرياض,7100,1775,710,EMP-0001,Meets Expectations
+EMP-0040,Shohel Sarker,شهيل ساركار,DEP-01,Operations Manager,مدير عمليات,G08,Full-time,Bangladeshi,بنغلاديشي,No,Male,18-01-1977,1/2/2022,,Active,Yanbu,ينبع,30000,7500,1200,EMP-0001,Meets Expectations
+EMP-0041,Amal Al Shehri,أمل الشهري,DEP-01,Shift Supervisor,مشرف وردية,G05,Full-time,Saudi,سعودي,Yes,Female,22-12-1989,13-01-2023,,Active,Jubail,الجبيل,9050,2263,905,EMP-0001,Meets Expectations
+EMP-0042,Suresh Kumar,سوريش كومار,DEP-01,Operations Assistant,مساعد عمليات,G02,Contract,Indian,هندي,No,Male,13-02-1993,20-12-2022,,Active,Abha,أبها,4550,1138,455,EMP-0001,Needs Improvement
+EMP-0043,Rommel Garcia,روميل غارسيا,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Filipino,فلبيني,No,Male,7/11/1998,7/2/2022,,Active,Mecca,مكة المكرمة,4450,1113,445,EMP-0001,Meets Expectations
+EMP-0044,Ravi Menon,رافي مينون,DEP-01,Operations Officer,أخصائي عمليات,G04,Full-time,Indian,هندي,No,Male,3/11/1987,3/5/2024,,Active,Al Khobar,الخبر,7600,1900,760,EMP-0001,Meets Expectations
+EMP-0045,Shohel Rahman,شهيل الرحمن,DEP-01,Operations Officer,أخصائي عمليات,G04,Full-time,Bangladeshi,بنغلاديشي,No,Male,15-04-1988,29-03-2023,,Active,Abha,أبها,6100,1525,610,EMP-0001,Exceeds Expectations
+EMP-0046,Ibrahim Al Otaibi,إبراهيم العتيبي,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Sudanese,سوداني,No,Male,9/7/1998,24-03-2022,,Active,Al Khobar,الخبر,3450,863,345,EMP-0001,Exceeds Expectations
+EMP-0047,Noura Abdelrahman,نورة عبدالرحمن,DEP-01,Operations Officer,أخصائي عمليات,G04,Full-time,Saudi,سعودي,Yes,Female,31-03-1981,22-04-2019,,Active,Medina,المدينة المنورة,8350,2088,835,EMP-0001,Outstanding
+EMP-0048,Sara Al Ghamdi,سارة الغامدي,DEP-01,Operations Manager,مدير عمليات,G08,Full-time,Saudi,سعودي,Yes,Female,30-05-1991,25-11-2022,,Active,Riyadh,الرياض,21750,5438,1200,EMP-0001,Exceeds Expectations
+EMP-0049,Fatimah Fathi,فاطمة فتحي,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Saudi,سعودي,Yes,Female,21-05-1990,8/1/2019,,Active,Yanbu,ينبع,4100,1025,410,EMP-0001,Meets Expectations
+EMP-0050,Deepa Iyer,ديبا أيار,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Indian,هندي,No,Female,9/2/1993,2/8/2018,,Active,Dammam,الدمام,3250,813,325,EMP-0001,Meets Expectations
+EMP-0051,Mizanur Rahman,ميزان الرحمن الرحمن,DEP-01,Operations Officer,أخصائي عمليات,G04,Full-time,Bangladeshi,بنغلاديشي,No,Male,11/11/1984,6/8/2020,,Active,Mecca,مكة المكرمة,7700,1925,770,EMP-0001,Needs Improvement
+EMP-0052,Mahmoud Al Subaie,محمود السبيعي,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Saudi,سعودي,Yes,Male,29-08-2003,9/12/2024,,Active,Tabuk,تبوك,4700,1175,470,EMP-0001,Exceeds Expectations
+EMP-0053,Layan Al Shehri,ليان الشهري,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Saudi,سعودي,Yes,Female,26-10-1999,7/2/2022,,Active,Mecca,مكة المكرمة,4100,1025,410,EMP-0001,Meets Expectations
+EMP-0054,Bilal Raza,بلال رضا,DEP-01,Shift Supervisor,مشرف وردية,G05,Full-time,Pakistani,باكستاني,No,Male,17-05-2003,17-05-2026,,Active,Abha,أبها,11950,2988,1195,EMP-0001,Meets Expectations
+EMP-0055,Omar Al Qahtani,عمر القحطاني,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Syrian,سوري,No,Male,31-08-1999,12/1/2025,,Active,Jubail,الجبيل,4250,1063,425,EMP-0001,Needs Improvement
+EMP-0056,Sara Al Subaie,سارة السبيعي,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Saudi,سعودي,Yes,Female,9/4/1991,22-03-2018,28-06-2025,Resigned,Mecca,مكة المكرمة,4650,1163,465,EMP-0001,Meets Expectations
+EMP-0057,Nasser Al Dossari,ناصر الدوسري,DEP-01,Operations Assistant,مساعد عمليات,G02,Part-time,Saudi,سعودي,Yes,Male,10/10/1991,31-10-2018,,Active,Medina,المدينة المنورة,4550,1138,455,EMP-0001,Exceeds Expectations
+EMP-0058,Dennis Ramos,دينيس راموس,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Filipino,فلبيني,No,Male,22-04-1980,25-05-2018,,Active,Tabuk,تبوك,3850,963,385,EMP-0001,Exceeds Expectations
+EMP-0059,Nasser Fathi,ناصر فتحي,DEP-01,Shift Supervisor,مشرف وردية,G05,Full-time,Yemeni,يمني,No,Male,5/12/1987,10/9/2023,,Active,Mecca,مكة المكرمة,9300,2325,930,EMP-0001,Meets Expectations
+EMP-0060,Omar Khalil,عمر خليل,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Saudi,سعودي,Yes,Male,29-10-1993,22-11-2024,,Active,Abha,أبها,4500,1125,450,EMP-0001,Needs Improvement
+EMP-0061,Ziad Al Zahrani,زياد الزهراني,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Saudi,سعودي,Yes,Male,4/6/1993,1/5/2019,14-10-2025,Terminated,Abha,أبها,4000,1000,400,EMP-0001,Meets Expectations
+EMP-0062,Mohammed Al Subaie,محمد السبيعي,DEP-01,Operations Assistant,مساعد عمليات,G02,Contract,Yemeni,يمني,No,Male,14-10-1990,9/6/2024,,Active,Yanbu,ينبع,4050,1013,405,EMP-0001,Outstanding
+EMP-0063,Layan Al Dossari,ليان الدوسري,DEP-01,Operations Officer,أخصائي عمليات,G04,Full-time,Saudi,سعودي,Yes,Female,22-10-1988,22-09-2025,,Active,Medina,المدينة المنورة,8050,2013,805,EMP-0001,Needs Improvement
+EMP-0064,Abdullah Al Harbi,عبدالله الحربي,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Egyptian,مصري,No,Male,22-04-1995,11/9/2022,,Active,Dammam,الدمام,4600,1150,460,EMP-0001,Exceeds Expectations
+EMP-0065,Jose Reyes,خوسيه رييس,DEP-01,Operations Manager,مدير عمليات,G08,Full-time,Filipino,فلبيني,No,Male,22-04-1972,30-05-2017,,Active,Jubail,الجبيل,28650,7163,1200,EMP-0001,Exceeds Expectations
+EMP-0066,Ziad Saleh,زياد صالح,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Sudanese,سوداني,No,Male,23-04-1992,27-12-2020,,Active,Medina,المدينة المنورة,3950,988,395,EMP-0001,Meets Expectations
+EMP-0067,Ziad Khalil,زياد خليل,DEP-01,Operations Assistant,مساعد عمليات,G02,Part-time,Saudi,سعودي,Yes,Male,20-12-2000,11/4/2023,,Active,Riyadh,الرياض,3450,863,345,EMP-0001,Meets Expectations
+EMP-0068,Mohammed Al Dossari,محمد الدوسري,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Egyptian,مصري,No,Male,30-12-1991,9/9/2023,,Active,Medina,المدينة المنورة,3750,938,375,EMP-0001,Meets Expectations
+EMP-0069,Turki Khalil,تركي خليل,DEP-01,Operations Manager,مدير عمليات,G08,Full-time,Egyptian,مصري,No,Male,17-08-1974,19-03-2019,,Active,Riyadh,الرياض,25850,6463,1200,EMP-0001,Meets Expectations
+EMP-0070,Angelica Delacruz,أنجيليكا ديلا كروز,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Filipino,فلبيني,No,Female,15-08-1993,9/2/2018,,Active,Tabuk,تبوك,3700,925,370,EMP-0001,Exceeds Expectations
+EMP-0071,Suresh Iyer,سوريش أيار,DEP-01,Operations Officer,أخصائي عمليات,G04,Full-time,Indian,هندي,No,Male,14-04-1989,4/7/2018,,Active,Dammam,الدمام,7100,1775,710,EMP-0001,Outstanding
+EMP-0072,Jashim Hossain,جاسم حسين,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Bangladeshi,بنغلاديشي,No,Male,28-02-1994,29-04-2022,,Active,Tabuk,تبوك,4450,1113,445,EMP-0001,Needs Improvement
+EMP-0073,Saud Al Otaibi,سعود العتيبي,DEP-01,Operations Manager,مدير عمليات,G08,Contract,Saudi,سعودي,Yes,Male,16-06-1982,18-03-2024,,Active,Mecca,مكة المكرمة,27600,6900,1200,EMP-0001,Meets Expectations
+EMP-0074,Jood Al Otaibi,جود العتيبي,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Saudi,سعودي,Yes,Female,19-03-1995,29-05-2018,,Active,Dammam,الدمام,3300,825,330,EMP-0001,Meets Expectations
+EMP-0075,Ibrahim Al Harbi,إبراهيم الحربي,DEP-01,Operations Officer,أخصائي عمليات,G04,Full-time,Egyptian,مصري,No,Male,16-02-1989,11/5/2026,,Active,Tabuk,تبوك,6600,1650,660,EMP-0001,Meets Expectations
+EMP-0076,Abdullah Al Qahtani,عبدالله القحطاني,DEP-01,Operations Assistant,مساعد عمليات,G02,Temporary,Egyptian,مصري,No,Male,9/3/1996,6/10/2025,,Active,Medina,المدينة المنورة,4400,1100,440,EMP-0001,Meets Expectations
+EMP-0077,Ravi Reddy,رافي ريدي,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Indian,هندي,No,Male,30-01-1993,30-06-2025,,Active,Al Khobar,الخبر,4600,1150,460,EMP-0001,Exceeds Expectations
+EMP-0078,Ravi Nair,رافي ناير,DEP-01,Shift Supervisor,مشرف وردية,G05,Full-time,Indian,هندي,No,Male,29-08-1993,12/3/2026,,Active,Dammam,الدمام,11100,2775,1110,EMP-0001,Exceeds Expectations
+EMP-0079,Khalid Al Harbi,خالد الحربي,DEP-01,Operations Officer,أخصائي عمليات,G04,Part-time,Saudi,سعودي,Yes,Male,17-05-1999,1/11/2021,,Active,Riyadh,الرياض,6450,1613,645,EMP-0001,Meets Expectations
+EMP-0080,Ahmed Khalil,أحمد خليل,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Egyptian,مصري,No,Male,4/11/1995,17-08-2020,,Active,Tabuk,تبوك,3200,800,320,EMP-0001,Exceeds Expectations
+EMP-0081,Sultan Al Malki,سلطان المالكي,DEP-01,Operations Officer,أخصائي عمليات,G04,Full-time,Sudanese,سوداني,No,Male,21-02-1989,10/6/2025,,Active,Tabuk,تبوك,8250,2063,825,EMP-0001,Exceeds Expectations
+EMP-0082,Suresh Pillai,سوريش بيلاي,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Indian,هندي,No,Male,2/5/1987,19-11-2024,20-01-2026,Terminated,Riyadh,الرياض,4000,1000,400,EMP-0001,Meets Expectations
+EMP-0083,Shahid Chaudhry,شهيد تشودري,DEP-01,Shift Supervisor,مشرف وردية,G05,Contract,Pakistani,باكستاني,No,Male,26-03-1995,18-01-2019,,Active,Abha,أبها,10200,2550,1020,EMP-0001,Meets Expectations
+EMP-0084,Sanjay Patel,سانجاي باتيل,DEP-01,Shift Supervisor,مشرف وردية,G05,Full-time,Indian,هندي,No,Male,29-03-1992,7/12/2024,,Active,Yanbu,ينبع,12750,3188,1200,EMP-0001,Meets Expectations
+EMP-0085,Rana Al Balawi,رنا البلوي,DEP-01,Operations Officer,أخصائي عمليات,G04,Full-time,Sudanese,سوداني,No,Female,13-05-1994,21-05-2018,14-08-2025,Resigned,Riyadh,الرياض,6100,1525,610,EMP-0001,Exceeds Expectations
+EMP-0086,Ronald Ramos,رونالد راموس,DEP-01,Operations Assistant,مساعد عمليات,G02,Full-time,Filipino,فلبيني,No,Male,22-06-1984,25-02-2018,,Active,Yanbu,ينبع,3550,888,355,EMP-0001,Exceeds Expectations
+EMP-0087,Abdullah Abdelrahman,عبدالله عبدالرحمن,DEP-01,Operations Manager,مدير عمليات,G08,Full-time,Saudi,سعودي,Yes,Male,3/4/1984,24-01-2017,12/5/2026,Resigned,Dammam,الدمام,25550,6388,1200,EMP-0001,Needs Improvement
+EMP-0088,Abdullah Abdelrahman,عبدالله عبدالرحمن,DEP-01,Operations Manager,مدير عمليات,G08,Full-time,Saudi,سعودي,Yes,Male,5/9/1991,15-04-2023,,Active,Dammam,الدمام,23950,5988,1200,EMP-0001,Needs Improvement
+EMP-0089,Usman Ahmed,عثمان أحمد,DEP-01,Operations Manager,مدير عمليات,G08,Full-time,Pakistani,باكستاني,No,Male,3/2/1979,4/8/2021,,Active,Mecca,مكة المكرمة,20900,5225,1200,EMP-0001,Exceeds Expectations
+EMP-0090,Bandar Al Balawi,بندر البلوي,DEP-01,Operations Officer,أخصائي عمليات,G04,Full-time,Saudi,سعودي,Yes,Male,20-07-1990,6/5/2026,,Active,Jeddah,جدة,8000,2000,800,EMP-0001,Exceeds Expectations
+EMP-0091,Khalid Al Otaibi,خالد العتيبي,DEP-02,Sales Director,مدير تنفيذي للمبيعات,G10,Full-time,Saudi,سعودي,Yes,Male,26-09-1992,16-08-2025,,Active,Tabuk,تبوك,34650,8663,1200,,Meets Expectations
+EMP-0092,Amal Saleh,أمل صالح,DEP-02,Sales Representative,مندوب مبيعات,G03,Contract,Saudi,سعودي,Yes,Female,7/2/1989,2/2/2020,,Active,Tabuk,تبوك,4550,1138,455,EMP-0091,Meets Expectations
+EMP-0093,Imran Butt,عمران بت,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Pakistani,باكستاني,No,Male,27-11-1989,11/7/2024,,Active,Jeddah,جدة,4900,1225,490,EMP-0091,Meets Expectations
+EMP-0094,Ghada Fathi,غادة فتحي,DEP-02,Key Account Manager,مدير حسابات رئيسية,G07,Full-time,Saudi,سعودي,Yes,Female,14-06-1998,8/5/2026,,Active,Medina,المدينة المنورة,20650,5163,1200,EMP-0091,Exceeds Expectations
+EMP-0095,Anita Sharma,أنيتا شارما,DEP-02,Key Account Manager,مدير حسابات رئيسية,G07,Full-time,Indian,هندي,No,Female,27-11-1989,15-12-2024,,Active,Al Khobar,الخبر,18600,4650,1200,EMP-0091,Meets Expectations
+EMP-0096,Mona Al Anazi,منى العنزي,DEP-02,Senior Sales Executive,أخصائي مبيعات أول,G05,Full-time,Saudi,سعودي,Yes,Female,19-09-1990,19-02-2026,,Active,Jeddah,جدة,12100,3025,1200,EMP-0091,Meets Expectations
+EMP-0097,Carlo Garcia,كارلو غارسيا,DEP-02,Sales Representative,مندوب مبيعات,G03,Contract,Filipino,فلبيني,No,Male,11/5/1992,2/11/2020,,Active,Dammam,الدمام,5050,1263,505,EMP-0091,Meets Expectations
+EMP-0098,Bandar Al Otaibi,بندر العتيبي,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Egyptian,مصري,No,Male,4/4/1989,30-01-2020,,Active,Tabuk,تبوك,6350,1588,635,EMP-0091,Meets Expectations
+EMP-0099,Shatha Mansour,شذى منصور,DEP-02,Senior Sales Executive,أخصائي مبيعات أول,G05,Full-time,Saudi,سعودي,Yes,Female,11/6/1998,1/5/2023,,Active,Medina,المدينة المنورة,11850,2963,1185,EMP-0091,Needs Improvement
+EMP-0100,Naveed Qureshi,نويد قريشي,DEP-02,Senior Sales Executive,أخصائي مبيعات أول,G05,Full-time,Pakistani,باكستاني,No,Male,12/2/1992,18-12-2023,,Active,Medina,المدينة المنورة,12900,3225,1200,EMP-0091,Exceeds Expectations
+EMP-0101,Abdullah Mansour,عبدالله منصور,DEP-02,Senior Sales Executive,أخصائي مبيعات أول,G05,Full-time,Saudi,سعودي,Yes,Male,18-03-1993,27-07-2024,27-02-2025,Terminated,Tabuk,تبوك,13000,3250,1200,EMP-0091,Meets Expectations
+EMP-0102,Jood Al Subaie,جود السبيعي,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Saudi,سعودي,Yes,Female,4/7/1989,22-04-2020,,Active,Medina,المدينة المنورة,4650,1163,465,EMP-0091,Exceeds Expectations
+EMP-0103,Suresh Kumar,سوريش كومار,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Indian,هندي,No,Male,8/3/2001,29-08-2023,,Active,Riyadh,الرياض,5350,1338,535,EMP-0091,Meets Expectations
+EMP-0104,Saud Mansour,سعود منصور,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Saudi,سعودي,Yes,Male,1/8/1990,7/1/2024,,Active,Al Khobar,الخبر,6350,1588,635,EMP-0091,Meets Expectations
+EMP-0105,Faisal Al Subaie,فيصل السبيعي,DEP-02,Key Account Manager,مدير حسابات رئيسية,G07,Full-time,Saudi,سعودي,Yes,Male,17-03-1983,30-08-2019,,Active,Tabuk,تبوك,21650,5413,1200,EMP-0091,Meets Expectations
+EMP-0106,Saud Al Anazi,سعود العنزي,DEP-02,Sales Manager,مدير مبيعات,G08,Full-time,Saudi,سعودي,Yes,Male,11/12/1977,26-08-2016,,Active,Tabuk,تبوك,24950,6238,1200,EMP-0091,Meets Expectations
+EMP-0107,Ibrahim Al Ghamdi,إبراهيم الغامدي,DEP-02,Sales Manager,مدير مبيعات,G08,Full-time,Saudi,سعودي,Yes,Male,18-01-1992,29-03-2023,,Active,Dammam,الدمام,26350,6588,1200,EMP-0091,Needs Improvement
+EMP-0108,Sultan Al Dossari,سلطان الدوسري,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Egyptian,مصري,No,Male,30-10-1986,19-02-2021,,Active,Yanbu,ينبع,6050,1513,605,EMP-0091,Meets Expectations
+EMP-0109,Arun Nair,أرون ناير,DEP-02,Senior Sales Executive,أخصائي مبيعات أول,G05,Contract,Indian,هندي,No,Male,28-10-2003,5/11/2025,,Active,Riyadh,الرياض,10900,2725,1090,EMP-0091,Exceeds Expectations
+EMP-0110,Majed Al Harbi,ماجد الحربي,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Saudi,سعودي,Yes,Male,5/3/2000,7/4/2026,,Active,Yanbu,ينبع,6100,1525,610,EMP-0091,Outstanding
+EMP-0111,Sara Al Qahtani,سارة القحطاني,DEP-02,Senior Sales Executive,أخصائي مبيعات أول,G05,Part-time,Saudi,سعودي,Yes,Female,5/12/2000,29-11-2025,,Active,Yanbu,ينبع,11050,2763,1105,EMP-0091,Exceeds Expectations
+EMP-0112,Waleed Abdelrahman,وليد عبدالرحمن,DEP-02,Key Account Manager,مدير حسابات رئيسية,G07,Full-time,Sudanese,سوداني,No,Male,23-09-1990,6/12/2019,,Active,Dammam,الدمام,17550,4388,1200,EMP-0091,Under Review
+EMP-0113,Reem Al Qahtani,ريم القحطاني,DEP-02,Senior Sales Executive,أخصائي مبيعات أول,G05,Full-time,Saudi,سعودي,Yes,Female,28-03-1993,27-02-2023,,Active,Jeddah,جدة,12550,3138,1200,EMP-0091,Meets Expectations
+EMP-0114,Jose Santos,خوسيه سانتوس,DEP-02,Senior Sales Executive,أخصائي مبيعات أول,G05,Full-time,Filipino,فلبيني,No,Male,24-03-1994,7/1/2024,29-04-2026,End of Contract,Al Khobar,الخبر,11300,2825,1130,EMP-0091,Meets Expectations
+EMP-0115,Turki Al Anazi,تركي العنزي,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Jordanian,أردني,No,Male,21-06-2002,14-02-2026,,Active,Jubail,الجبيل,5200,1300,520,EMP-0091,Meets Expectations
+EMP-0116,Michael Bautista,مايكل باوتيستا,DEP-02,Sales Representative,مندوب مبيعات,G03,Part-time,Filipino,فلبيني,No,Male,7/7/1994,19-05-2022,,Active,Medina,المدينة المنورة,4550,1138,455,EMP-0091,Meets Expectations
+EMP-0117,Reem Al Qahtani,ريم القحطاني,DEP-02,Sales Manager,مدير مبيعات,G08,Full-time,Saudi,سعودي,Yes,Female,11/3/1978,27-08-2019,,Active,Jeddah,جدة,22450,5613,1200,EMP-0091,Meets Expectations
+EMP-0118,Majed Fathi,ماجد فتحي,DEP-02,Key Account Manager,مدير حسابات رئيسية,G07,Full-time,Saudi,سعودي,Yes,Male,4/12/1993,17-06-2024,,Active,Yanbu,ينبع,18200,4550,1200,EMP-0091,Meets Expectations
+EMP-0119,Ahmed Al Balawi,أحمد البلوي,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Egyptian,مصري,No,Male,5/2/1982,31-03-2020,,Active,Yanbu,ينبع,5300,1325,530,EMP-0091,Meets Expectations
+EMP-0120,Mahmoud Al Dossari,محمود الدوسري,DEP-02,Senior Sales Executive,أخصائي مبيعات أول,G05,Full-time,Saudi,سعودي,Yes,Male,11/9/1999,6/4/2022,,Active,Tabuk,تبوك,12250,3063,1200,EMP-0091,Meets Expectations
+EMP-0121,Bandar Al Zahrani,بندر الزهراني,DEP-02,Sales Representative,مندوب مبيعات,G03,Contract,Egyptian,مصري,No,Male,9/10/1986,12/12/2022,,Active,Jeddah,جدة,4700,1175,470,EMP-0091,Meets Expectations
+EMP-0122,Sana Butt,سناء بت,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Pakistani,باكستاني,No,Female,15-06-1994,25-02-2024,,Active,Abha,أبها,5250,1313,525,EMP-0091,Meets Expectations
+EMP-0123,Layan Mansour,ليان منصور,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Saudi,سعودي,Yes,Female,12/6/1987,18-10-2018,,Active,Dammam,الدمام,5450,1363,545,EMP-0091,Meets Expectations
+EMP-0124,Abdullah Al Harbi,عبدالله الحربي,DEP-02,Sales Manager,مدير مبيعات,G08,Full-time,Saudi,سعودي,Yes,Male,17-04-1986,23-08-2023,,Active,Medina,المدينة المنورة,28200,7050,1200,EMP-0091,Exceeds Expectations
+EMP-0125,Tariq Al Harbi,طارق الحربي,DEP-02,Key Account Manager,مدير حسابات رئيسية,G07,Full-time,Saudi,سعودي,Yes,Male,16-03-1995,20-03-2026,,Active,Mecca,مكة المكرمة,16650,4163,1200,EMP-0091,Needs Improvement
+EMP-0126,Hassan Al Zahrani,حسن الزهراني,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Egyptian,مصري,No,Male,6/2/2001,22-09-2022,,Active,Abha,أبها,6100,1525,610,EMP-0091,Meets Expectations
+EMP-0127,Michael Delacruz,مايكل ديلا كروز,DEP-02,Senior Sales Executive,أخصائي مبيعات أول,G05,Full-time,Filipino,فلبيني,No,Male,9/1/1986,11/7/2020,,Active,Mecca,مكة المكرمة,9350,2338,935,EMP-0091,Needs Improvement
+EMP-0128,Waleed Abdelrahman,وليد عبدالرحمن,DEP-02,Sales Manager,مدير مبيعات,G08,Full-time,Saudi,سعودي,Yes,Male,4/12/1996,10/5/2026,,Active,Abha,أبها,21750,5438,1200,EMP-0091,Meets Expectations
+EMP-0129,Sara Abdelrahman,سارة عبدالرحمن,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Saudi,سعودي,Yes,Female,19-03-2000,17-04-2021,,Active,Dammam,الدمام,4850,1213,485,EMP-0091,Exceeds Expectations
+EMP-0130,Faruk Hossain,فاروق حسين,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Bangladeshi,بنغلاديشي,No,Male,19-07-1993,20-09-2023,,Active,Mecca,مكة المكرمة,6350,1588,635,EMP-0091,Meets Expectations
+EMP-0131,Maria Garcia,ماريا غارسيا,DEP-02,Sales Manager,مدير مبيعات,G08,Full-time,Filipino,فلبيني,No,Female,10/9/1976,23-12-2017,18-05-2026,Retired,Riyadh,الرياض,20750,5188,1200,EMP-0091,Exceeds Expectations
+EMP-0132,Waleed Saleh,وليد صالح,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Saudi,سعودي,Yes,Male,18-10-1989,8/9/2024,,Active,Dammam,الدمام,5400,1350,540,EMP-0091,Exceeds Expectations
+EMP-0133,Sultan Al Malki,سلطان المالكي,DEP-02,Senior Sales Executive,أخصائي مبيعات أول,G05,Full-time,Egyptian,مصري,No,Male,28-12-1989,27-02-2021,,Active,Riyadh,الرياض,11850,2963,1185,EMP-0091,Meets Expectations
+EMP-0134,Asif Ahmed,آصف أحمد,DEP-02,Sales Representative,مندوب مبيعات,G03,Contract,Pakistani,باكستاني,No,Male,23-08-2002,19-07-2023,,Active,Yanbu,ينبع,4750,1188,475,EMP-0091,Outstanding
+EMP-0135,Ahmed Saleh,أحمد صالح,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Jordanian,أردني,No,Male,28-09-1994,17-01-2025,,Active,Riyadh,الرياض,5700,1425,570,EMP-0091,Meets Expectations
+EMP-0136,Faruk Miah,فاروق ميا,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Bangladeshi,بنغلاديشي,No,Male,30-11-2001,16-04-2024,,Active,Jubail,الجبيل,4850,1213,485,EMP-0091,Meets Expectations
+EMP-0137,Shahid Qureshi,شهيد قريشي,DEP-02,Sales Manager,مدير مبيعات,G08,Full-time,Pakistani,باكستاني,No,Male,24-06-1985,13-02-2024,,Active,Jubail,الجبيل,20100,5025,1200,EMP-0091,Meets Expectations
+EMP-0138,Rajesh Reddy,راجيش ريدي,DEP-02,Key Account Manager,مدير حسابات رئيسية,G07,Full-time,Indian,هندي,No,Male,12/8/1983,19-03-2020,,Active,Tabuk,تبوك,17050,4263,1200,EMP-0091,Meets Expectations
+EMP-0139,Arun Kumar,أرون كومار,DEP-02,Senior Sales Executive,أخصائي مبيعات أول,G05,Full-time,Indian,هندي,No,Male,1/3/1996,20-01-2021,17-05-2025,Resigned,Dammam,الدمام,9150,2288,915,EMP-0091,Meets Expectations
+EMP-0140,Sanjay Patel,سانجاي باتيل,DEP-02,Senior Sales Executive,أخصائي مبيعات أول,G05,Full-time,Indian,هندي,No,Male,25-05-1987,27-05-2019,,Active,Yanbu,ينبع,10050,2513,1005,EMP-0091,Outstanding
+EMP-0141,Ziad Al Harbi,زياد الحربي,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Saudi,سعودي,Yes,Male,2/3/1991,4/12/2021,,Active,Abha,أبها,6000,1500,600,EMP-0091,Exceeds Expectations
+EMP-0142,Maha Al Anazi,مها العنزي,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Saudi,سعودي,Yes,Female,17-03-1990,27-08-2023,,Active,Yanbu,ينبع,4900,1225,490,EMP-0091,Meets Expectations
+EMP-0143,Sara Al Harbi,سارة الحربي,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Egyptian,مصري,No,Female,8/10/1997,11/2/2026,,Active,Al Khobar,الخبر,5350,1338,535,EMP-0091,Meets Expectations
+EMP-0144,Anil Iyer,أنيل أيار,DEP-02,Senior Sales Executive,أخصائي مبيعات أول,G05,Full-time,Indian,هندي,No,Male,15-05-2003,6/3/2026,,Active,Jubail,الجبيل,11200,2800,1120,EMP-0091,Meets Expectations
+EMP-0145,Suresh Sharma,سوريش شارما,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Indian,هندي,No,Male,10/12/1999,13-03-2025,,Active,Riyadh,الرياض,5000,1250,500,EMP-0091,Outstanding
+EMP-0146,Turki Al Otaibi,تركي العتيبي,DEP-02,Key Account Manager,مدير حسابات رئيسية,G07,Part-time,Saudi,سعودي,Yes,Male,25-10-1988,5/11/2020,,Active,Riyadh,الرياض,17050,4263,1200,EMP-0091,Meets Expectations
+EMP-0147,Mahmoud Abdelrahman,محمود عبدالرحمن,DEP-02,Sales Representative,مندوب مبيعات,G03,Contract,Saudi,سعودي,Yes,Male,1/2/1993,21-11-2025,,Active,Jeddah,جدة,4850,1213,485,EMP-0091,Needs Improvement
+EMP-0148,Grace Santos,غريس سانتوس,DEP-02,Key Account Manager,مدير حسابات رئيسية,G07,Full-time,Filipino,فلبيني,No,Female,5/11/1996,22-10-2021,16-09-2025,Retired,Jubail,الجبيل,20350,5088,1200,EMP-0091,Needs Improvement
+EMP-0149,Faisal Al Anazi,فيصل العنزي,DEP-02,Key Account Manager,مدير حسابات رئيسية,G07,Full-time,Saudi,سعودي,Yes,Male,11/9/1996,31-07-2024,,Active,Tabuk,تبوك,20200,5050,1200,EMP-0091,Meets Expectations
+EMP-0150,Hind Al Dossari,هند الدوسري,DEP-02,Key Account Manager,مدير حسابات رئيسية,G07,Full-time,Saudi,سعودي,Yes,Female,9/7/1985,16-11-2018,,Active,Mecca,مكة المكرمة,17050,4263,1200,EMP-0091,Exceeds Expectations
+EMP-0151,Mona Al Otaibi,منى العتيبي,DEP-02,Key Account Manager,مدير حسابات رئيسية,G07,Contract,Saudi,سعودي,Yes,Female,27-01-1987,16-12-2019,,Active,Medina,المدينة المنورة,16150,4038,1200,EMP-0091,Meets Expectations
+EMP-0152,Adnan Butt,عدنان بت,DEP-02,Key Account Manager,مدير حسابات رئيسية,G07,Full-time,Pakistani,باكستاني,No,Male,12/6/1990,30-01-2019,,Active,Al Khobar,الخبر,21350,5338,1200,EMP-0091,Meets Expectations
+EMP-0153,Sara Al Dossari,سارة الدوسري,DEP-02,Senior Sales Executive,أخصائي مبيعات أول,G05,Full-time,Saudi,سعودي,Yes,Female,19-01-1996,18-09-2023,,Active,Dammam,الدمام,12500,3125,1200,EMP-0091,Meets Expectations
+EMP-0154,Ziad Al Qahtani,زياد القحطاني,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Saudi,سعودي,Yes,Male,2/6/1991,17-01-2026,,Active,Mecca,مكة المكرمة,6300,1575,630,EMP-0091,Meets Expectations
+EMP-0155,Rommel Garcia,روميل غارسيا,DEP-02,Sales Manager,مدير مبيعات,G08,Full-time,Filipino,فلبيني,No,Male,19-11-1984,4/7/2018,,Active,Medina,المدينة المنورة,28050,7013,1200,EMP-0091,Meets Expectations
+EMP-0156,Anil Pillai,أنيل بيلاي,DEP-02,Key Account Manager,مدير حسابات رئيسية,G07,Full-time,Indian,هندي,No,Male,28-09-2002,18-02-2026,,Active,Riyadh,الرياض,20850,5213,1200,EMP-0091,Meets Expectations
+EMP-0157,Prakash Reddy,براكاش ريدي,DEP-02,Senior Sales Executive,أخصائي مبيعات أول,G05,Full-time,Indian,هندي,No,Male,5/4/1993,17-11-2020,,Active,Al Khobar,الخبر,11300,2825,1130,EMP-0091,Meets Expectations
+EMP-0158,Shohel Miah,شهيل ميا,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Bangladeshi,بنغلاديشي,No,Male,17-01-1986,27-03-2019,,Active,Jeddah,جدة,4550,1138,455,EMP-0091,Meets Expectations
+EMP-0159,Hind Al Ghamdi,هند الغامدي,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Saudi,سعودي,Yes,Female,8/4/1988,17-09-2020,,Active,Mecca,مكة المكرمة,4650,1163,465,EMP-0091,Meets Expectations
+EMP-0160,Hassan Al Balawi,حسن البلوي,DEP-02,Sales Representative,مندوب مبيعات,G03,Full-time,Saudi,سعودي,Yes,Male,19-03-1990,11/11/2022,,Active,Dammam,الدمام,6000,1500,600,EMP-0091,Outstanding
+EMP-0161,Hassan Al Subaie,حسن السبيعي,DEP-03,Customer Service Manager,مدير خدمة العملاء,G08,Full-time,Saudi,سعودي,Yes,Male,29-10-1988,14-12-2020,,Active,Mecca,مكة المكرمة,25100,6275,1200,,Exceeds Expectations
+EMP-0162,Maria Delacruz,ماريا ديلا كروز,DEP-03,Complaints Analyst,محلل شكاوى,G05,Full-time,Filipino,فلبيني,No,Female,21-02-1988,5/12/2022,,Active,Riyadh,الرياض,10350,2588,1035,EMP-0161,Meets Expectations
+EMP-0163,Nasser Fathi,ناصر فتحي,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Saudi,سعودي,Yes,Male,3/8/1990,3/6/2019,,Active,Tabuk,تبوك,3850,963,385,EMP-0161,Meets Expectations
+EMP-0164,Noura Al Subaie,نورة السبيعي,DEP-03,Customer Service Specialist,أخصائي خدمة عملاء,G04,Full-time,Saudi,سعودي,Yes,Female,18-10-1994,25-01-2019,,Active,Mecca,مكة المكرمة,6250,1563,625,EMP-0161,Exceeds Expectations
+EMP-0165,Usman Malik,عثمان مالك,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Pakistani,باكستاني,No,Male,6/10/2000,27-03-2025,,Active,Al Khobar,الخبر,4500,1125,450,EMP-0161,Exceeds Expectations
+EMP-0166,Faisal Al Harbi,فيصل الحربي,DEP-03,Customer Service Specialist,أخصائي خدمة عملاء,G04,Full-time,Saudi,سعودي,Yes,Male,30-12-1997,4/3/2026,,Active,Al Khobar,الخبر,7450,1863,745,EMP-0161,Meets Expectations
+EMP-0167,Majed Al Subaie,ماجد السبيعي,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Saudi,سعودي,Yes,Male,9/2/1988,15-10-2019,,Active,Jeddah,جدة,3450,863,345,EMP-0161,Meets Expectations
+EMP-0168,Vijay Nair,فيجاي ناير,DEP-03,Complaints Analyst,محلل شكاوى,G05,Full-time,Indian,هندي,No,Male,19-06-1985,9/8/2019,,Active,Medina,المدينة المنورة,11900,2975,1190,EMP-0161,Needs Improvement
+EMP-0169,Asif Khan,آصف خان,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Pakistani,باكستاني,No,Male,5/9/1988,31-12-2020,,Active,Mecca,مكة المكرمة,3250,813,325,EMP-0161,Exceeds Expectations
+EMP-0170,Saud Abdelrahman,سعود عبدالرحمن,DEP-03,Customer Service Specialist,أخصائي خدمة عملاء,G04,Contract,Saudi,سعودي,Yes,Male,5/11/1997,4/5/2024,,Active,Al Khobar,الخبر,7550,1888,755,EMP-0161,Exceeds Expectations
+EMP-0171,Suresh Menon,سوريش مينون,DEP-03,Complaints Analyst,محلل شكاوى,G05,Contract,Indian,هندي,No,Male,4/12/1997,2/10/2021,,Active,Abha,أبها,8550,2138,855,EMP-0161,Exceeds Expectations
+EMP-0172,Tariq Al Subaie,طارق السبيعي,DEP-03,Customer Service Specialist,أخصائي خدمة عملاء,G04,Full-time,Saudi,سعودي,Yes,Male,28-04-2000,20-03-2023,,Active,Medina,المدينة المنورة,7650,1913,765,EMP-0161,Meets Expectations
+EMP-0173,Anil Nair,أنيل ناير,DEP-03,Customer Service Specialist,أخصائي خدمة عملاء,G04,Full-time,Indian,هندي,No,Male,2/2/1994,16-02-2024,,Active,Riyadh,الرياض,8850,2213,885,EMP-0161,Meets Expectations
+EMP-0174,Maha Khalil,مها خليل,DEP-03,Customer Service Specialist,أخصائي خدمة عملاء,G04,Full-time,Saudi,سعودي,Yes,Female,19-02-1987,2/2/2024,,Active,Tabuk,تبوك,6300,1575,630,EMP-0161,Exceeds Expectations
+EMP-0175,Omar Al Dossari,عمر الدوسري,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Saudi,سعودي,Yes,Male,1/5/1998,6/8/2024,,Active,Abha,أبها,4500,1125,450,EMP-0161,Outstanding
+EMP-0176,Tariq Al Dossari,طارق الدوسري,DEP-03,Customer Service Specialist,أخصائي خدمة عملاء,G04,Full-time,Saudi,سعودي,Yes,Male,17-02-1984,20-06-2022,,Active,Yanbu,ينبع,6100,1525,610,EMP-0161,Meets Expectations
+EMP-0177,Kashif Chaudhry,كاشف تشودري,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Part-time,Pakistani,باكستاني,No,Male,17-11-1997,21-03-2024,,Active,Dammam,الدمام,4400,1100,440,EMP-0161,Meets Expectations
+EMP-0178,Mona Saleh,منى صالح,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Contract,Saudi,سعودي,Yes,Female,7/10/1990,20-09-2019,,Active,Jubail,الجبيل,4600,1150,460,EMP-0161,Outstanding
+EMP-0179,Turki Mansour,تركي منصور,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Saudi,سعودي,Yes,Male,9/10/1993,13-07-2019,10/9/2025,End of Contract,Dammam,الدمام,4750,1188,475,EMP-0161,Exceeds Expectations
+EMP-0180,Turki Al Ghamdi,تركي الغامدي,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Yemeni,يمني,No,Male,31-08-1994,25-10-2021,,Active,Jubail,الجبيل,4600,1150,460,EMP-0161,Meets Expectations
+EMP-0181,Ghada Fathi,غادة فتحي,DEP-03,Customer Service Specialist,أخصائي خدمة عملاء,G04,Full-time,Saudi,سعودي,Yes,Female,11/3/1992,30-08-2025,,Active,Jeddah,جدة,6450,1613,645,EMP-0161,Exceeds Expectations
+EMP-0182,Jenny Villanueva,جيني فيلانويفا,DEP-03,Customer Service Specialist,أخصائي خدمة عملاء,G04,Full-time,Filipino,فلبيني,No,Female,30-09-2003,11/1/2025,,Active,Riyadh,الرياض,7450,1863,745,EMP-0161,Exceeds Expectations
+EMP-0183,Waleed Al Dossari,وليد الدوسري,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Saudi,سعودي,Yes,Male,4/6/1991,20-12-2024,,Active,Jubail,الجبيل,4700,1175,470,EMP-0161,Meets Expectations
+EMP-0184,Mark Cruz,مارك كروز,DEP-03,Customer Service Specialist,أخصائي خدمة عملاء,G04,Contract,Filipino,فلبيني,No,Male,9/6/1990,5/7/2019,,Active,Abha,أبها,8900,2225,890,EMP-0161,Meets Expectations
+EMP-0185,Saud Al Balawi,سعود البلوي,DEP-03,Customer Service Specialist,أخصائي خدمة عملاء,G04,Full-time,Saudi,سعودي,Yes,Male,26-08-1998,27-05-2026,,Active,Jubail,الجبيل,7000,1750,700,EMP-0161,Meets Expectations
+EMP-0186,Majed Al Dossari,ماجد الدوسري,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Saudi,سعودي,Yes,Male,25-05-1995,14-01-2021,,Active,Abha,أبها,3250,813,325,EMP-0161,Exceeds Expectations
+EMP-0187,Yousef Al Otaibi,يوسف العتيبي,DEP-03,Customer Service Specialist,أخصائي خدمة عملاء,G04,Full-time,Jordanian,أردني,No,Male,25-08-1986,6/1/2019,,Active,Mecca,مكة المكرمة,7150,1788,715,EMP-0161,Meets Expectations
+EMP-0188,Faisal Al Zahrani,فيصل الزهراني,DEP-03,Customer Service Specialist,أخصائي خدمة عملاء,G04,Full-time,Saudi,سعودي,Yes,Male,8/4/1996,4/7/2021,,Active,Yanbu,ينبع,8550,2138,855,EMP-0161,Exceeds Expectations
+EMP-0189,Rayan Saleh,ريان صالح,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Egyptian,مصري,No,Male,24-03-1996,13-05-2018,,Active,Al Khobar,الخبر,3450,863,345,EMP-0161,Meets Expectations
+EMP-0190,Ronald Ramos,رونالد راموس,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Filipino,فلبيني,No,Male,6/12/1993,26-10-2023,,Active,Al Khobar,الخبر,4750,1188,475,EMP-0161,Needs Improvement
+EMP-0191,Majed Al Ghamdi,ماجد الغامدي,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Jordanian,أردني,No,Male,14-02-1989,2/5/2022,,Active,Al Khobar,الخبر,3800,950,380,EMP-0161,Meets Expectations
+EMP-0192,Usman Ahmed,عثمان أحمد,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Pakistani,باكستاني,No,Male,26-09-1992,1/12/2025,,Active,Riyadh,الرياض,3750,938,375,EMP-0161,Meets Expectations
+EMP-0193,Ahmed Khalil,أحمد خليل,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Egyptian,مصري,No,Male,30-01-1985,21-10-2023,,Active,Al Khobar,الخبر,3650,913,365,EMP-0161,Exceeds Expectations
+EMP-0194,Ayesha Qureshi,عائشة قريشي,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Pakistani,باكستاني,No,Female,11/2/1990,18-11-2022,,Active,Jeddah,جدة,4750,1188,475,EMP-0161,Exceeds Expectations
+EMP-0195,Nasrin Islam,نسرين إسلام,DEP-03,Customer Service Specialist,أخصائي خدمة عملاء,G04,Full-time,Bangladeshi,بنغلاديشي,No,Female,8/10/1994,26-04-2022,,Active,Abha,أبها,6150,1538,615,EMP-0161,Meets Expectations
+EMP-0196,Rajesh Menon,راجيش مينون,DEP-03,Customer Service Specialist,أخصائي خدمة عملاء,G04,Full-time,Indian,هندي,No,Male,5/6/1984,5/6/2019,,Active,Riyadh,الرياض,8550,2138,855,EMP-0161,Meets Expectations
+EMP-0197,Vijay Menon,فيجاي مينون,DEP-03,Complaints Analyst,محلل شكاوى,G05,Full-time,Indian,هندي,No,Male,5/6/1992,22-02-2019,,Active,Jeddah,جدة,12000,3000,1200,EMP-0161,Exceeds Expectations
+EMP-0198,Mizanur Hossain,ميزان الرحمن حسين,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Contract,Bangladeshi,بنغلاديشي,No,Male,13-11-1998,13-03-2019,,Active,Mecca,مكة المكرمة,3400,850,340,EMP-0161,Meets Expectations
+EMP-0199,Sultan Al Ghamdi,سلطان الغامدي,DEP-03,Customer Service Specialist,أخصائي خدمة عملاء,G04,Full-time,Yemeni,يمني,No,Male,31-03-1997,4/8/2021,,Active,Yanbu,ينبع,7700,1925,770,EMP-0161,Meets Expectations
+EMP-0200,Mohammed Al Ghamdi,محمد الغامدي,DEP-03,Complaints Analyst,محلل شكاوى,G05,Full-time,Egyptian,مصري,No,Male,24-01-1983,20-01-2018,,Active,Riyadh,الرياض,11500,2875,1150,EMP-0161,Needs Improvement
+EMP-0201,Bilal Chaudhry,بلال تشودري,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Pakistani,باكستاني,No,Male,21-12-1984,19-08-2018,,Active,Jeddah,جدة,3700,925,370,EMP-0161,Meets Expectations
+EMP-0202,Tariq Fathi,طارق فتحي,DEP-03,Customer Service Specialist,أخصائي خدمة عملاء,G04,Full-time,Saudi,سعودي,Yes,Male,22-12-1981,20-07-2018,,Active,Dammam,الدمام,8800,2200,880,EMP-0161,Meets Expectations
+EMP-0203,Bandar Al Anazi,بندر العنزي,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Contract,Saudi,سعودي,Yes,Male,16-04-1997,28-10-2020,,Active,Jubail,الجبيل,4150,1038,415,EMP-0161,Exceeds Expectations
+EMP-0204,Mizanur Uddin,ميزان الرحمن الدين,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Bangladeshi,بنغلاديشي,No,Male,30-11-1999,17-08-2021,31-05-2025,Terminated,Yanbu,ينبع,4650,1163,465,EMP-0161,Needs Improvement
+EMP-0205,Layan Al Ghamdi,ليان الغامدي,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Saudi,سعودي,Yes,Female,30-11-1999,17-06-2025,,Active,Abha,أبها,4450,1113,445,EMP-0161,Outstanding
+EMP-0206,Bandar Al Dossari,بندر الدوسري,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Jordanian,أردني,No,Male,5/8/2001,18-03-2026,,Active,Mecca,مكة المكرمة,4350,1088,435,EMP-0161,Meets Expectations
+EMP-0207,Dennis Santos,دينيس سانتوس,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Filipino,فلبيني,No,Male,22-06-1994,27-04-2025,,Active,Dammam,الدمام,4450,1113,445,EMP-0161,Meets Expectations
+EMP-0208,Mohammed Al Qahtani,محمد القحطاني,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Jordanian,أردني,No,Male,24-04-1995,1/8/2025,,Active,Medina,المدينة المنورة,4300,1075,430,EMP-0161,Exceeds Expectations
+EMP-0209,Mark Reyes,مارك رييس,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Filipino,فلبيني,No,Male,4/11/1986,21-03-2020,,Active,Riyadh,الرياض,3500,875,350,EMP-0161,Meets Expectations
+EMP-0210,Khalid Al Harbi,خالد الحربي,DEP-03,Customer Service Specialist,أخصائي خدمة عملاء,G04,Full-time,Saudi,سعودي,Yes,Male,6/8/1992,11/8/2019,,Active,Jubail,الجبيل,6850,1713,685,EMP-0161,Needs Improvement
+EMP-0211,Mizanur Miah,ميزان الرحمن ميا,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Bangladeshi,بنغلاديشي,No,Male,13-09-1994,8/3/2022,,Active,Dammam,الدمام,4450,1113,445,EMP-0161,Needs Improvement
+EMP-0212,Nasser Al Ghamdi,ناصر الغامدي,DEP-03,Customer Service Specialist,أخصائي خدمة عملاء,G04,Full-time,Saudi,سعودي,Yes,Male,23-05-1986,23-02-2018,,Active,Riyadh,الرياض,8700,2175,870,EMP-0161,Needs Improvement
+EMP-0213,Ziad Al Harbi,زياد الحربي,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Saudi,سعودي,Yes,Male,21-06-1989,20-02-2020,,Active,Yanbu,ينبع,3650,913,365,EMP-0161,Meets Expectations
+EMP-0214,Yousef Al Dossari,يوسف الدوسري,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Saudi,سعودي,Yes,Male,20-08-1998,4/12/2021,,Active,Riyadh,الرياض,3250,813,325,EMP-0161,Meets Expectations
+EMP-0215,Ibrahim Al Ghamdi,إبراهيم الغامدي,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Egyptian,مصري,No,Male,12/8/1990,26-04-2019,,Active,Jubail,الجبيل,3300,825,330,EMP-0161,Needs Improvement
+EMP-0216,Waleed Al Subaie,وليد السبيعي,DEP-03,Customer Service Specialist,أخصائي خدمة عملاء,G04,Contract,Saudi,سعودي,Yes,Male,21-03-1996,2/5/2019,,Active,Abha,أبها,7650,1913,765,EMP-0161,Meets Expectations
+EMP-0217,Rafiq Hossain,رفيق حسين,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Bangladeshi,بنغلاديشي,No,Male,29-09-1988,6/2/2024,,Active,Mecca,مكة المكرمة,3450,863,345,EMP-0161,Meets Expectations
+EMP-0218,Usman Qureshi,عثمان قريشي,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Contract,Pakistani,باكستاني,No,Male,30-03-1993,31-07-2025,,Active,Tabuk,تبوك,4200,1050,420,EMP-0161,Meets Expectations
+EMP-0219,Dalal Al Malki,دلال المالكي,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Saudi,سعودي,Yes,Female,14-11-1986,2/3/2024,,Active,Riyadh,الرياض,3500,875,350,EMP-0161,Meets Expectations
+EMP-0220,Nasser Al Zahrani,ناصر الزهراني,DEP-03,Call Center Agent,موظف مركز اتصال,G02,Full-time,Saudi,سعودي,Yes,Male,23-05-1998,7/9/2022,,Active,Dammam,الدمام,3950,988,395,EMP-0161,Meets Expectations
+EMP-0221,Shatha Al Harbi,شذى الحربي,DEP-04,Supply Chain Manager,مدير سلسلة الإمداد,G08,Full-time,Saudi,سعودي,Yes,Female,5/12/1994,9/8/2024,,Active,Abha,أبها,25950,6488,1200,,Under Review
+EMP-0222,Sanjay Iyer,سانجاي أيار,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Indian,هندي,No,Male,30-12-1997,13-08-2020,,Active,Mecca,مكة المكرمة,3700,925,370,EMP-0221,Meets Expectations
+EMP-0223,Majed Al Subaie,ماجد السبيعي,DEP-04,Logistics Coordinator,منسق لوجستي,G04,Full-time,Egyptian,مصري,No,Male,7/12/1986,24-07-2023,,Active,Medina,المدينة المنورة,7500,1875,750,EMP-0221,Meets Expectations
+EMP-0224,Omar Al Qahtani,عمر القحطاني,DEP-04,Logistics Coordinator,منسق لوجستي,G04,Full-time,Saudi,سعودي,Yes,Male,17-04-1994,5/4/2026,,Active,Medina,المدينة المنورة,7900,1975,790,EMP-0221,Needs Improvement
+EMP-0225,Tariq Fathi,طارق فتحي,DEP-04,Inventory Analyst,محلل مخزون,G05,Full-time,Saudi,سعودي,Yes,Male,29-05-1993,29-06-2025,,Active,Tabuk,تبوك,11800,2950,1180,EMP-0221,Meets Expectations
+EMP-0226,Ahmed Al Subaie,أحمد السبيعي,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Yemeni,يمني,No,Male,17-05-1997,28-12-2023,,Active,Medina,المدينة المنورة,3350,838,335,EMP-0221,Exceeds Expectations
+EMP-0227,Dalal Al Balawi,دلال البلوي,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Saudi,سعودي,Yes,Female,25-09-1994,21-03-2020,15-03-2026,Resigned,Abha,أبها,4650,1163,465,EMP-0221,Needs Improvement
+EMP-0228,Usman Butt,عثمان بت,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Pakistani,باكستاني,No,Male,10/3/1998,21-03-2023,,Active,Medina,المدينة المنورة,4400,1100,440,EMP-0221,Needs Improvement
+EMP-0229,Rafiq Islam,رفيق إسلام,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Bangladeshi,بنغلاديشي,No,Male,15-06-1987,28-02-2021,,Active,Abha,أبها,3550,888,355,EMP-0221,Exceeds Expectations
+EMP-0230,Rana Al Malki,رنا المالكي,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Saudi,سعودي,Yes,Female,5/7/1998,20-06-2025,,Active,Yanbu,ينبع,4650,1163,465,EMP-0221,Meets Expectations
+EMP-0231,Mohammed Al Shehri,محمد الشهري,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Syrian,سوري,No,Male,3/1/1995,17-02-2021,,Active,Yanbu,ينبع,4450,1113,445,EMP-0221,Meets Expectations
+EMP-0232,Ziad Al Dossari,زياد الدوسري,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Egyptian,مصري,No,Male,1/7/1993,27-05-2024,,Active,Riyadh,الرياض,4300,1075,430,EMP-0221,Meets Expectations
+EMP-0233,Rahim Hossain,رحيم حسين,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Bangladeshi,بنغلاديشي,No,Male,5/5/1988,19-04-2026,,Active,Mecca,مكة المكرمة,4300,1075,430,EMP-0221,Meets Expectations
+EMP-0234,Suresh Reddy,سوريش ريدي,DEP-04,Inventory Analyst,محلل مخزون,G05,Contract,Indian,هندي,No,Male,12/2/2004,15-11-2025,,Active,Tabuk,تبوك,10700,2675,1070,EMP-0221,Outstanding
+EMP-0235,Ghada Al Shehri,غادة الشهري,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Saudi,سعودي,Yes,Female,1/9/1983,18-08-2018,30-03-2025,Resigned,Medina,المدينة المنورة,4700,1175,470,EMP-0221,Needs Improvement
+EMP-0236,Faisal Al Ghamdi,فيصل الغامدي,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Egyptian,مصري,No,Male,8/2/1992,2/2/2021,,Active,Yanbu,ينبع,3250,813,325,EMP-0221,Meets Expectations
+EMP-0237,Ziad Al Malki,زياد المالكي,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Saudi,سعودي,Yes,Male,6/3/1986,17-03-2019,,Active,Jeddah,جدة,4050,1013,405,EMP-0221,Exceeds Expectations
+EMP-0238,Sanjay Reddy,سانجاي ريدي,DEP-04,Logistics Coordinator,منسق لوجستي,G04,Full-time,Indian,هندي,No,Male,3/1/1983,7/8/2020,,Active,Yanbu,ينبع,8750,2188,875,EMP-0221,Meets Expectations
+EMP-0239,Ravi Iyer,رافي أيار,DEP-04,Inventory Analyst,محلل مخزون,G05,Full-time,Indian,هندي,No,Male,3/6/1992,9/7/2020,,Active,Medina,المدينة المنورة,8650,2163,865,EMP-0221,Meets Expectations
+EMP-0240,Saud Khalil,سعود خليل,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Egyptian,مصري,No,Male,1/2/1995,23-08-2019,,Active,Dammam,الدمام,3550,888,355,EMP-0221,Meets Expectations
+EMP-0241,Bandar Saleh,بندر صالح,DEP-04,Inventory Analyst,محلل مخزون,G05,Full-time,Saudi,سعودي,Yes,Male,27-06-1995,18-07-2022,,Active,Yanbu,ينبع,11250,2813,1125,EMP-0221,Outstanding
+EMP-0242,Khalid Al Dossari,خالد الدوسري,DEP-04,Warehouse Clerk,أمين مستودع,G02,Contract,Saudi,سعودي,Yes,Male,23-04-1985,12/8/2018,,Active,Mecca,مكة المكرمة,3500,875,350,EMP-0221,Exceeds Expectations
+EMP-0243,Ahmed Al Balawi,أحمد البلوي,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Egyptian,مصري,No,Male,20-09-1983,26-01-2018,,Active,Riyadh,الرياض,3350,838,335,EMP-0221,Outstanding
+EMP-0244,Dalal Saleh,دلال صالح,DEP-04,Logistics Coordinator,منسق لوجستي,G04,Full-time,Saudi,سعودي,Yes,Female,30-10-1990,31-12-2018,,Active,Abha,أبها,8550,2138,855,EMP-0221,Outstanding
+EMP-0245,Sultan Al Balawi,سلطان البلوي,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Saudi,سعودي,Yes,Male,4/8/1992,16-02-2020,,Active,Al Khobar,الخبر,4100,1025,410,EMP-0221,Meets Expectations
+EMP-0246,Maha Saleh,مها صالح,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Saudi,سعودي,Yes,Female,8/6/1990,10/12/2019,,Active,Yanbu,ينبع,4600,1150,460,EMP-0221,Needs Improvement
+EMP-0247,Arun Nair,أرون ناير,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Indian,هندي,No,Male,24-01-1993,27-09-2020,,Active,Jubail,الجبيل,3850,963,385,EMP-0221,Meets Expectations
+EMP-0248,Nasser Al Qahtani,ناصر القحطاني,DEP-04,Logistics Coordinator,منسق لوجستي,G04,Full-time,Saudi,سعودي,Yes,Male,21-07-2002,27-12-2024,,Active,Medina,المدينة المنورة,8500,2125,850,EMP-0221,Meets Expectations
+EMP-0249,Mizanur Miah,ميزان الرحمن ميا,DEP-04,Logistics Coordinator,منسق لوجستي,G04,Full-time,Bangladeshi,بنغلاديشي,No,Male,30-08-1999,28-03-2025,,Active,Tabuk,تبوك,8600,2150,860,EMP-0221,Meets Expectations
+EMP-0250,Rayan Al Zahrani,ريان الزهراني,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Syrian,سوري,No,Male,16-02-1986,18-03-2024,,Active,Dammam,الدمام,3950,988,395,EMP-0221,Needs Improvement
+EMP-0251,Rayan Al Anazi,ريان العنزي,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Saudi,سعودي,Yes,Male,12/2/1997,29-09-2025,,Active,Tabuk,تبوك,4500,1125,450,EMP-0221,Meets Expectations
+EMP-0252,Mohammed Al Anazi,محمد العنزي,DEP-04,Logistics Coordinator,منسق لوجستي,G04,Full-time,Saudi,سعودي,Yes,Male,12/12/1997,3/7/2018,,Active,Riyadh,الرياض,7200,1800,720,EMP-0221,Exceeds Expectations
+EMP-0253,Dalal Al Malki,دلال المالكي,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Saudi,سعودي,Yes,Female,13-05-1997,25-07-2025,,Active,Abha,أبها,4350,1088,435,EMP-0221,Needs Improvement
+EMP-0254,Mahmoud Al Subaie,محمود السبيعي,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Saudi,سعودي,Yes,Male,27-05-1986,22-04-2024,,Active,Dammam,الدمام,3200,800,320,EMP-0221,Needs Improvement
+EMP-0255,Turki Al Otaibi,تركي العتيبي,DEP-04,Inventory Analyst,محلل مخزون,G05,Full-time,Saudi,سعودي,Yes,Male,7/7/1987,16-09-2025,,Active,Medina,المدينة المنورة,9650,2413,965,EMP-0221,Outstanding
+EMP-0256,Vijay Patel,فيجاي باتيل,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Indian,هندي,No,Male,23-03-1982,3/10/2019,,Active,Mecca,مكة المكرمة,3400,850,340,EMP-0221,Exceeds Expectations
+EMP-0257,Rayan Fathi,ريان فتحي,DEP-04,Inventory Analyst,محلل مخزون,G05,Full-time,Sudanese,سوداني,No,Male,21-12-1993,6/4/2018,,Active,Abha,أبها,9150,2288,915,EMP-0221,Meets Expectations
+EMP-0258,Imran Malik,عمران مالك,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Pakistani,باكستاني,No,Male,7/12/1986,29-02-2024,,Active,Riyadh,الرياض,4400,1100,440,EMP-0221,Exceeds Expectations
+EMP-0259,Ahmed Al Harbi,أحمد الحربي,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Saudi,سعودي,Yes,Male,26-12-2002,14-04-2026,,Active,Riyadh,الرياض,3600,900,360,EMP-0221,Meets Expectations
+EMP-0260,Bilal Iqbal,بلال إقبال,DEP-04,Inventory Analyst,محلل مخزون,G05,Full-time,Pakistani,باكستاني,No,Male,3/4/1990,8/12/2021,,Active,Yanbu,ينبع,10550,2638,1055,EMP-0221,Exceeds Expectations
+EMP-0261,Layan Al Shehri,ليان الشهري,DEP-04,Logistics Coordinator,منسق لوجستي,G04,Full-time,Syrian,سوري,No,Female,11/7/1997,20-09-2022,,Active,Tabuk,تبوك,7450,1863,745,EMP-0221,Meets Expectations
+EMP-0262,Maha Al Zahrani,مها الزهراني,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Saudi,سعودي,Yes,Female,20-01-1992,19-12-2020,,Active,Al Khobar,الخبر,4450,1113,445,EMP-0221,Exceeds Expectations
+EMP-0263,Ahmed Al Dossari,أحمد الدوسري,DEP-04,Inventory Analyst,محلل مخزون,G05,Full-time,Saudi,سعودي,Yes,Male,26-01-2000,10/3/2022,,Active,Yanbu,ينبع,11700,2925,1170,EMP-0221,Meets Expectations
+EMP-0264,Khalid Saleh,خالد صالح,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Saudi,سعودي,Yes,Male,20-02-1998,16-06-2022,,Active,Jubail,الجبيل,4500,1125,450,EMP-0221,Meets Expectations
+EMP-0265,Grace Ramos,غريس راموس,DEP-04,Logistics Coordinator,منسق لوجستي,G04,Full-time,Filipino,فلبيني,No,Female,25-08-1981,25-01-2018,,Active,Jubail,الجبيل,8850,2213,885,EMP-0221,Meets Expectations
+EMP-0266,Mahmoud Al Shehri,محمود الشهري,DEP-04,Logistics Coordinator,منسق لوجستي,G04,Full-time,Saudi,سعودي,Yes,Male,28-12-2000,3/11/2021,,Active,Al Khobar,الخبر,8900,2225,890,EMP-0221,Meets Expectations
+EMP-0267,Omar Al Shehri,عمر الشهري,DEP-04,Inventory Analyst,محلل مخزون,G05,Full-time,Egyptian,مصري,No,Male,16-06-1997,4/2/2024,,Active,Jubail,الجبيل,9150,2288,915,EMP-0221,Exceeds Expectations
+EMP-0268,Ravi Sharma,رافي شارما,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Indian,هندي,No,Male,22-11-1990,18-05-2024,,Active,Riyadh,الرياض,4300,1075,430,EMP-0221,Meets Expectations
+EMP-0269,Nadia Raza,نادية رضا,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Pakistani,باكستاني,No,Female,18-03-1988,27-05-2023,,Active,Medina,المدينة المنورة,4450,1113,445,EMP-0221,Exceeds Expectations
+EMP-0270,Rana Al Dossari,رنا الدوسري,DEP-04,Warehouse Clerk,أمين مستودع,G02,Full-time,Saudi,سعودي,Yes,Female,9/8/1995,16-09-2025,,Active,Tabuk,تبوك,4550,1138,455,EMP-0221,Outstanding
+EMP-0271,Naveed Raza,نويد رضا,DEP-05,Engineering Manager,مدير هندسي,G08,Full-time,Pakistani,باكستاني,No,Male,1/9/1995,28-03-2026,,Active,Tabuk,تبوك,26350,6588,1200,,Meets Expectations
+EMP-0272,Usman Khan,عثمان خان,DEP-05,Maintenance Technician,فني صيانة,G02,Full-time,Pakistani,باكستاني,No,Male,23-07-1994,5/12/2021,,Active,Riyadh,الرياض,4200,1050,420,EMP-0271,Meets Expectations
+EMP-0273,Hind Khalil,هند خليل,DEP-05,Maintenance Technician,فني صيانة,G02,Contract,Saudi,سعودي,Yes,Female,9/4/1992,24-02-2019,21-12-2025,Resigned,Dammam,الدمام,4750,1188,475,EMP-0271,Exceeds Expectations
+EMP-0274,Turki Al Qahtani,تركي القحطاني,DEP-05,Mechanical Engineer,مهندس ميكانيكي,G05,Contract,Sudanese,سوداني,No,Male,2/11/2000,13-10-2024,,Active,Mecca,مكة المكرمة,10550,2638,1055,EMP-0271,Under Review
+EMP-0275,Ahmed Al Qahtani,أحمد القحطاني,DEP-05,Maintenance Supervisor,مشرف صيانة,G06,Full-time,Saudi,سعودي,Yes,Male,14-01-1995,15-11-2021,,Active,Abha,أبها,13900,3475,1200,EMP-0271,Meets Expectations
+EMP-0276,Imran Ahmed,عمران أحمد,DEP-05,Maintenance Supervisor,مشرف صيانة,G06,Full-time,Pakistani,باكستاني,No,Male,8/3/2001,24-10-2025,,Active,Jeddah,جدة,13450,3363,1200,EMP-0271,Exceeds Expectations
+EMP-0277,Amal Al Malki,أمل المالكي,DEP-05,Electrical Engineer,مهندس كهربائي,G05,Full-time,Saudi,سعودي,Yes,Female,27-07-1995,6/9/2019,,Active,Tabuk,تبوك,8700,2175,870,EMP-0271,Exceeds Expectations
+EMP-0278,Majed Khalil,ماجد خليل,DEP-05,Mechanical Engineer,مهندس ميكانيكي,G05,Full-time,Saudi,سعودي,Yes,Male,30-11-1995,19-01-2021,,Active,Dammam,الدمام,10350,2588,1035,EMP-0271,Exceeds Expectations
+EMP-0279,Rayan Al Otaibi,ريان العتيبي,DEP-05,Mechanical Engineer,مهندس ميكانيكي,G05,Full-time,Saudi,سعودي,Yes,Male,16-11-1980,20-03-2018,,Active,Abha,أبها,10300,2575,1030,EMP-0271,Meets Expectations
+EMP-0280,Majed Al Ghamdi,ماجد الغامدي,DEP-05,Maintenance Technician,فني صيانة,G02,Full-time,Sudanese,سوداني,No,Male,22-09-1992,2/11/2020,,Active,Jeddah,جدة,4350,1088,435,EMP-0271,Outstanding
+EMP-0281,Ravi Patel,رافي باتيل,DEP-05,Maintenance Technician,فني صيانة,G02,Full-time,Indian,هندي,No,Male,27-10-1987,7/8/2019,,Active,Mecca,مكة المكرمة,4350,1088,435,EMP-0271,Needs Improvement
+EMP-0282,Aisha Mansour,عائشة منصور,DEP-05,Mechanical Engineer,مهندس ميكانيكي,G05,Full-time,Saudi,سعودي,Yes,Female,17-12-1998,7/1/2024,,Active,Dammam,الدمام,8750,2188,875,EMP-0271,Outstanding
+EMP-0283,Rayan Al Anazi,ريان العنزي,DEP-05,Maintenance Technician,فني صيانة,G02,Full-time,Jordanian,أردني,No,Male,2/6/1991,20-08-2020,,Active,Medina,المدينة المنورة,3650,913,365,EMP-0271,Meets Expectations
+EMP-0284,Carlo Cruz,كارلو كروز,DEP-05,Maintenance Technician,فني صيانة,G02,Full-time,Filipino,فلبيني,No,Male,28-03-1994,14-01-2026,,Active,Al Khobar,الخبر,3400,850,340,EMP-0271,Exceeds Expectations
+EMP-0285,Khalid Al Malki,خالد المالكي,DEP-05,Mechanical Engineer,مهندس ميكانيكي,G05,Full-time,Sudanese,سوداني,No,Male,22-08-1989,16-04-2026,,Active,Al Khobar,الخبر,8900,2225,890,EMP-0271,Meets Expectations
+EMP-0286,Deepa Nair,ديبا ناير,DEP-05,Maintenance Technician,فني صيانة,G02,Full-time,Indian,هندي,No,Female,18-04-1993,6/12/2019,,Active,Jeddah,جدة,3900,975,390,EMP-0271,Needs Improvement
+EMP-0287,Anil Patel,أنيل باتيل,DEP-05,Mechanical Engineer,مهندس ميكانيكي,G05,Full-time,Indian,هندي,No,Male,13-01-1988,13-11-2023,,Active,Tabuk,تبوك,8850,2213,885,EMP-0271,Meets Expectations
+EMP-0288,Jood Al Shehri,جود الشهري,DEP-05,Maintenance Technician,فني صيانة,G02,Full-time,Saudi,سعودي,Yes,Female,25-09-1985,30-03-2019,22-05-2026,Retired,Tabuk,تبوك,4350,1088,435,EMP-0271,Meets Expectations
+EMP-0289,Lama Al Ghamdi,لمى الغامدي,DEP-05,Maintenance Technician,فني صيانة,G02,Full-time,Saudi,سعودي,Yes,Female,22-06-1990,20-06-2023,30-09-2025,Resigned,Tabuk,تبوك,4650,1163,465,EMP-0271,Meets Expectations
+EMP-0290,Amal Al Balawi,أمل البلوي,DEP-05,Maintenance Technician,فني صيانة,G02,Temporary,Saudi,سعودي,Yes,Female,6/8/1990,13-02-2025,,Active,Abha,أبها,3950,988,395,EMP-0271,Meets Expectations
+EMP-0291,Bandar Al Harbi,بندر الحربي,DEP-05,Maintenance Technician,فني صيانة,G02,Full-time,Egyptian,مصري,No,Male,19-07-1990,23-09-2020,27-06-2025,Resigned,Jeddah,جدة,3950,988,395,EMP-0271,Meets Expectations
+EMP-0292,Mona Khalil,منى خليل,DEP-05,Maintenance Technician,فني صيانة,G02,Contract,Saudi,سعودي,Yes,Female,14-06-2000,1/9/2021,,Active,Al Khobar,الخبر,4750,1188,475,EMP-0271,Meets Expectations
+EMP-0293,Tariq Al Subaie,طارق السبيعي,DEP-05,Mechanical Engineer,مهندس ميكانيكي,G05,Full-time,Saudi,سعودي,Yes,Male,30-03-2000,9/9/2023,,Active,Medina,المدينة المنورة,8500,2125,850,EMP-0271,Meets Expectations
+EMP-0294,Rayan Khalil,ريان خليل,DEP-05,Maintenance Technician,فني صيانة,G02,Full-time,Saudi,سعودي,Yes,Male,7/6/1989,27-03-2021,,Active,Yanbu,ينبع,4400,1100,440,EMP-0271,Meets Expectations
+EMP-0295,Waleed Al Shehri,وليد الشهري,DEP-05,Electrical Engineer,مهندس كهربائي,G05,Full-time,Yemeni,يمني,No,Male,12/2/1989,31-03-2019,,Active,Dammam,الدمام,11000,2750,1100,EMP-0271,Meets Expectations
+EMP-0296,Sara Al Otaibi,سارة العتيبي,DEP-05,Maintenance Supervisor,مشرف صيانة,G06,Full-time,Saudi,سعودي,Yes,Female,27-03-1990,26-09-2018,,Active,Jeddah,جدة,15050,3763,1200,EMP-0271,Meets Expectations
+EMP-0297,Mona Al Subaie,منى السبيعي,DEP-05,Maintenance Technician,فني صيانة,G02,Full-time,Saudi,سعودي,Yes,Female,21-04-1994,7/11/2021,,Active,Dammam,الدمام,4400,1100,440,EMP-0271,Needs Improvement
+EMP-0298,Adnan Ahmed,عدنان أحمد,DEP-05,Maintenance Technician,فني صيانة,G02,Full-time,Pakistani,باكستاني,No,Male,26-08-2004,28-02-2026,,Active,Mecca,مكة المكرمة,4650,1163,465,EMP-0271,Meets Expectations
+EMP-0299,Rafiq Rahman,رفيق الرحمن,DEP-05,Maintenance Technician,فني صيانة,G02,Full-time,Bangladeshi,بنغلاديشي,No,Male,6/10/1989,1/10/2025,,Active,Tabuk,تبوك,4600,1150,460,EMP-0271,Meets Expectations
+EMP-0300,Asif Qureshi,آصف قريشي,DEP-05,Mechanical Engineer,مهندس ميكانيكي,G05,Part-time,Pakistani,باكستاني,No,Male,23-08-2002,15-02-2024,21-05-2026,Resigned,Dammam,الدمام,12700,3175,1200,EMP-0271,Meets Expectations
+EMP-0301,Ibrahim Al Harbi,إبراهيم الحربي,DEP-05,Mechanical Engineer,مهندس ميكانيكي,G05,Full-time,Sudanese,سوداني,No,Male,8/12/1991,16-06-2025,,Active,Yanbu,ينبع,8700,2175,870,EMP-0271,Meets Expectations
+EMP-0302,Anil Kumar,أنيل كومار,DEP-05,Electrical Engineer,مهندس كهربائي,G05,Full-time,Indian,هندي,No,Male,31-01-1997,19-03-2026,,Active,Abha,أبها,10200,2550,1020,EMP-0271,Exceeds Expectations
+EMP-0303,Jayson Villanueva,جايسون فيلانويفا,DEP-05,Mechanical Engineer,مهندس ميكانيكي,G05,Full-time,Filipino,فلبيني,No,Male,4/10/1986,14-03-2024,,Active,Yanbu,ينبع,9200,2300,920,EMP-0271,Meets Expectations
+EMP-0304,Rayan Al Malki,ريان المالكي,DEP-05,Mechanical Engineer,مهندس ميكانيكي,G05,Full-time,Egyptian,مصري,No,Male,26-04-1991,5/8/2023,27-03-2026,Resigned,Jubail,الجبيل,11500,2875,1150,EMP-0271,Outstanding
+EMP-0305,Turki Saleh,تركي صالح,DEP-05,Maintenance Technician,فني صيانة,G02,Full-time,Saudi,سعودي,Yes,Male,11/7/1994,4/11/2023,,Active,Dammam,الدمام,3850,963,385,EMP-0271,Meets Expectations
+EMP-0306,Ahmed Al Malki,أحمد المالكي,DEP-05,Maintenance Technician,فني صيانة,G02,Full-time,Egyptian,مصري,No,Male,14-04-1990,27-08-2019,,Active,Dammam,الدمام,4800,1200,480,EMP-0271,Meets Expectations
+EMP-0307,Vijay Menon,فيجاي مينون,DEP-05,Mechanical Engineer,مهندس ميكانيكي,G05,Full-time,Indian,هندي,No,Male,30-12-1984,16-08-2019,,Active,Medina,المدينة المنورة,9450,2363,945,EMP-0271,Exceeds Expectations
+EMP-0308,Ibrahim Al Subaie,إبراهيم السبيعي,DEP-05,Mechanical Engineer,مهندس ميكانيكي,G05,Full-time,Jordanian,أردني,No,Male,30-03-1994,17-03-2024,,Active,Mecca,مكة المكرمة,10900,2725,1090,EMP-0271,Exceeds Expectations
+EMP-0309,Ravi Kumar,رافي كومار,DEP-05,Maintenance Technician,فني صيانة,G02,Full-time,Indian,هندي,No,Male,10/3/1984,22-10-2021,,Active,Al Khobar,الخبر,3800,950,380,EMP-0271,Needs Improvement
+EMP-0310,Omar Saleh,عمر صالح,DEP-05,Mechanical Engineer,مهندس ميكانيكي,G05,Contract,Egyptian,مصري,No,Male,19-10-2002,28-02-2025,,Active,Tabuk,تبوك,10450,2613,1045,EMP-0271,Exceeds Expectations
+EMP-0311,Sultan Al Malki,سلطان المالكي,DEP-05,Maintenance Supervisor,مشرف صيانة,G06,Full-time,Jordanian,أردني,No,Male,28-03-1987,20-05-2020,,Active,Abha,أبها,15900,3975,1200,EMP-0271,Meets Expectations
+EMP-0312,Saud Al Anazi,سعود العنزي,DEP-05,Maintenance Supervisor,مشرف صيانة,G06,Full-time,Sudanese,سوداني,No,Male,28-09-1996,30-10-2019,,Active,Tabuk,تبوك,14350,3588,1200,EMP-0271,Meets Expectations
+EMP-0313,Suresh Nair,سوريش ناير,DEP-05,Electrical Engineer,مهندس كهربائي,G05,Full-time,Indian,هندي,No,Male,2/4/1999,24-03-2021,,Active,Abha,أبها,11900,2975,1190,EMP-0271,Meets Expectations
+EMP-0314,Ghada Khalil,غادة خليل,DEP-05,Maintenance Technician,فني صيانة,G02,Full-time,Saudi,سعودي,Yes,Female,29-03-1990,13-04-2023,,Active,Abha,أبها,3650,913,365,EMP-0271,Meets Expectations
+EMP-0315,Abdullah Al Qahtani,عبدالله القحطاني,DEP-05,Mechanical Engineer,مهندس ميكانيكي,G05,Full-time,Saudi,سعودي,Yes,Male,2/8/1993,7/12/2024,,Active,Abha,أبها,11600,2900,1160,EMP-0271,Outstanding
+EMP-0316,Anil Pillai,أنيل بيلاي,DEP-05,Maintenance Supervisor,مشرف صيانة,G06,Full-time,Indian,هندي,No,Male,16-10-1989,2/5/2020,,Active,Tabuk,تبوك,15200,3800,1200,EMP-0271,Exceeds Expectations
+EMP-0317,Rayan Al Shehri,ريان الشهري,DEP-05,Maintenance Technician,فني صيانة,G02,Temporary,Saudi,سعودي,Yes,Male,7/9/2004,23-12-2025,,Active,Jeddah,جدة,4250,1063,425,EMP-0271,Meets Expectations
+EMP-0318,Majed Al Ghamdi,ماجد الغامدي,DEP-05,Maintenance Technician,فني صيانة,G02,Full-time,Saudi,سعودي,Yes,Male,8/11/1997,1/6/2021,,Active,Riyadh,الرياض,4100,1025,410,EMP-0271,Meets Expectations
+EMP-0319,Angelica Villanueva,أنجيليكا فيلانويفا,DEP-05,Maintenance Technician,فني صيانة,G02,Full-time,Filipino,فلبيني,No,Female,18-11-1992,31-03-2026,,Active,Tabuk,تبوك,4300,1075,430,EMP-0271,Exceeds Expectations
+EMP-0320,Ravi Iyer,رافي أيار,DEP-05,Mechanical Engineer,مهندس ميكانيكي,G05,Full-time,Indian,هندي,No,Male,30-09-1988,28-03-2018,,Active,Mecca,مكة المكرمة,8750,2188,875,EMP-0271,Needs Improvement
+EMP-0321,Jood Al Dossari,جود الدوسري,DEP-06,IT Manager,مدير تقنية المعلومات,G08,Full-time,Saudi,سعودي,Yes,Female,1/10/1980,6/2/2022,,Active,Dammam,الدمام,21300,5325,1200,,Meets Expectations
+EMP-0322,Ibrahim Al Anazi,إبراهيم العنزي,DEP-06,Data Analyst,محلل بيانات,G05,Full-time,Saudi,سعودي,Yes,Male,18-07-1983,17-10-2018,,Active,Mecca,مكة المكرمة,8700,2175,870,EMP-0321,Outstanding
+EMP-0323,Abdullah Mansour,عبدالله منصور,DEP-06,Systems Administrator,مدير أنظمة,G05,Full-time,Egyptian,مصري,No,Male,20-01-1988,12/2/2026,,Active,Riyadh,الرياض,12050,3013,1200,EMP-0321,Needs Improvement
+EMP-0324,Sultan Al Balawi,سلطان البلوي,DEP-06,IT Support Technician,فني دعم تقني,G03,Full-time,Egyptian,مصري,No,Male,11/2/1993,6/2/2023,,Active,Medina,المدينة المنورة,6100,1525,610,EMP-0321,Meets Expectations
+EMP-0325,Carlo Villanueva,كارلو فيلانويفا,DEP-06,Systems Administrator,مدير أنظمة,G05,Full-time,Filipino,فلبيني,No,Male,15-11-1986,18-01-2023,,Active,Al Khobar,الخبر,11300,2825,1130,EMP-0321,Exceeds Expectations
+EMP-0326,Waleed Al Subaie,وليد السبيعي,DEP-06,IT Support Technician,فني دعم تقني,G03,Full-time,Egyptian,مصري,No,Male,16-02-1990,16-06-2021,,Active,Riyadh,الرياض,5000,1250,500,EMP-0321,Exceeds Expectations
+EMP-0327,Yousef Al Shehri,يوسف الشهري,DEP-06,Systems Administrator,مدير أنظمة,G05,Full-time,Egyptian,مصري,No,Male,2/10/1985,7/2/2020,,Active,Riyadh,الرياض,9400,2350,940,EMP-0321,Meets Expectations
+EMP-0328,Ahmed Abdelrahman,أحمد عبدالرحمن,DEP-06,Systems Administrator,مدير أنظمة,G05,Full-time,Saudi,سعودي,Yes,Male,12/8/1997,6/5/2019,,Active,Abha,أبها,10850,2713,1085,EMP-0321,Meets Expectations
+EMP-0329,Usman Ahmed,عثمان أحمد,DEP-06,Systems Administrator,مدير أنظمة,G05,Full-time,Pakistani,باكستاني,No,Male,4/3/1999,26-01-2020,,Active,Jubail,الجبيل,10700,2675,1070,EMP-0321,Exceeds Expectations
+EMP-0330,Jashim Islam,جاسم إسلام,DEP-06,IT Support Technician,فني دعم تقني,G03,Full-time,Bangladeshi,بنغلاديشي,No,Male,25-05-1988,29-06-2026,,Active,Yanbu,ينبع,6500,1625,650,EMP-0321,Exceeds Expectations
+EMP-0331,Waleed Al Balawi,وليد البلوي,DEP-06,Systems Administrator,مدير أنظمة,G05,Full-time,Egyptian,مصري,No,Male,11/5/1998,4/1/2021,17-12-2025,Resigned,Mecca,مكة المكرمة,11600,2900,1160,EMP-0321,Meets Expectations
+EMP-0332,Ibrahim Al Shehri,إبراهيم الشهري,DEP-06,IT Support Technician,فني دعم تقني,G03,Full-time,Saudi,سعودي,Yes,Male,6/9/1999,17-05-2023,,Active,Jubail,الجبيل,5350,1338,535,EMP-0321,Meets Expectations
+EMP-0333,Majed Al Malki,ماجد المالكي,DEP-06,IT Support Technician,فني دعم تقني,G03,Full-time,Jordanian,أردني,No,Male,19-07-1994,5/6/2020,,Active,Medina,المدينة المنورة,4700,1175,470,EMP-0321,Exceeds Expectations
+EMP-0334,Suresh Reddy,سوريش ريدي,DEP-06,Software Engineer,مهندس برمجيات,G06,Full-time,Indian,هندي,No,Male,8/9/1989,29-09-2021,,Active,Medina,المدينة المنورة,15550,3888,1200,EMP-0321,Exceeds Expectations
+EMP-0335,Majed Saleh,ماجد صالح,DEP-06,Systems Administrator,مدير أنظمة,G05,Full-time,Sudanese,سوداني,No,Male,2/10/1991,27-01-2018,,Active,Medina,المدينة المنورة,12650,3163,1200,EMP-0321,Outstanding
+EMP-0336,Omar Al Balawi,عمر البلوي,DEP-06,IT Support Technician,فني دعم تقني,G03,Full-time,Yemeni,يمني,No,Male,19-12-1987,27-12-2023,,Active,Abha,أبها,5000,1250,500,EMP-0321,Meets Expectations
+EMP-0337,Abdullah Abdelrahman,عبدالله عبدالرحمن,DEP-06,Data Analyst,محلل بيانات,G05,Contract,Saudi,سعودي,Yes,Male,6/4/1985,12/11/2021,,Active,Riyadh,الرياض,8750,2188,875,EMP-0321,Meets Expectations
+EMP-0338,Ziad Fathi,زياد فتحي,DEP-06,Systems Administrator,مدير أنظمة,G05,Full-time,Egyptian,مصري,No,Male,6/2/1998,15-01-2019,,Active,Al Khobar,الخبر,11550,2888,1155,EMP-0321,Meets Expectations
+EMP-0339,Yousef Saleh,يوسف صالح,DEP-06,Systems Administrator,مدير أنظمة,G05,Full-time,Saudi,سعودي,Yes,Male,18-07-1988,30-03-2019,,Active,Dammam,الدمام,12400,3100,1200,EMP-0321,Meets Expectations
+EMP-0340,Ibrahim Abdelrahman,إبراهيم عبدالرحمن,DEP-06,Data Analyst,محلل بيانات,G05,Full-time,Egyptian,مصري,No,Male,3/8/1993,22-10-2019,,Active,Yanbu,ينبع,11200,2800,1120,EMP-0321,Meets Expectations
+EMP-0341,Faisal Abdelrahman,فيصل عبدالرحمن,DEP-06,IT Support Technician,فني دعم تقني,G03,Full-time,Egyptian,مصري,No,Male,14-09-1995,20-05-2024,,Active,Yanbu,ينبع,4900,1225,490,EMP-0321,Meets Expectations
+EMP-0342,Mohammed Al Otaibi,محمد العتيبي,DEP-06,Systems Administrator,مدير أنظمة,G05,Full-time,Saudi,سعودي,Yes,Male,2/11/1990,2/4/2024,,Active,Mecca,مكة المكرمة,8500,2125,850,EMP-0321,Exceeds Expectations
+EMP-0343,Shohel Rahman,شهيل الرحمن,DEP-06,IT Support Technician,فني دعم تقني,G03,Full-time,Bangladeshi,بنغلاديشي,No,Male,26-09-2002,15-05-2023,25-03-2026,Terminated,Dammam,الدمام,5300,1325,530,EMP-0321,Meets Expectations
+EMP-0344,Sana Khan,سناء خان,DEP-06,Data Analyst,محلل بيانات,G05,Contract,Pakistani,باكستاني,No,Female,12/3/1994,3/1/2022,,Active,Jeddah,جدة,11000,2750,1100,EMP-0321,Exceeds Expectations
+EMP-0345,Mohammed Mansour,محمد منصور,DEP-06,IT Support Technician,فني دعم تقني,G03,Full-time,Yemeni,يمني,No,Male,5/12/1990,7/9/2018,30-03-2025,Resigned,Yanbu,ينبع,5100,1275,510,EMP-0321,Meets Expectations
+EMP-0346,Hind Al Malki,هند المالكي,DEP-06,IT Support Technician,فني دعم تقني,G03,Full-time,Saudi,سعودي,Yes,Female,5/9/2001,20-02-2026,,Active,Tabuk,تبوك,4850,1213,485,EMP-0321,Meets Expectations
+EMP-0347,Faisal Al Harbi,فيصل الحربي,DEP-06,IT Support Technician,فني دعم تقني,G03,Full-time,Egyptian,مصري,No,Male,8/5/2000,16-03-2022,,Active,Jubail,الجبيل,5550,1388,555,EMP-0321,Outstanding
+EMP-0348,Sultan Al Balawi,سلطان البلوي,DEP-06,Systems Administrator,مدير أنظمة,G05,Full-time,Saudi,سعودي,Yes,Male,5/1/2003,5/12/2025,,Active,Dammam,الدمام,11200,2800,1120,EMP-0321,Exceeds Expectations
+EMP-0349,Khalid Al Otaibi,خالد العتيبي,DEP-06,Systems Administrator,مدير أنظمة,G05,Full-time,Egyptian,مصري,No,Male,16-05-1989,21-11-2020,,Active,Dammam,الدمام,10850,2713,1085,EMP-0321,Exceeds Expectations
+EMP-0350,Fatimah Al Otaibi,فاطمة العتيبي,DEP-06,Software Engineer,مهندس برمجيات,G06,Full-time,Saudi,سعودي,Yes,Female,17-10-1992,30-06-2023,21-05-2026,Retired,Dammam,الدمام,13050,3263,1200,EMP-0321,Meets Expectations
+EMP-0351,Mohammed Khalil,محمد خليل,DEP-06,Software Engineer,مهندس برمجيات,G06,Full-time,Saudi,سعودي,Yes,Male,3/6/1989,2/4/2023,16-08-2025,Terminated,Riyadh,الرياض,14350,3588,1200,EMP-0321,Exceeds Expectations
+EMP-0352,Ziad Al Shehri,زياد الشهري,DEP-06,Data Analyst,محلل بيانات,G05,Full-time,Yemeni,يمني,No,Male,27-11-1986,23-12-2022,,Active,Riyadh,الرياض,10200,2550,1020,EMP-0321,Exceeds Expectations
+EMP-0353,Mona Al Malki,منى المالكي,DEP-06,Systems Administrator,مدير أنظمة,G05,Full-time,Saudi,سعودي,Yes,Female,3/7/2002,22-03-2024,,Active,Tabuk,تبوك,10650,2663,1065,EMP-0321,Meets Expectations
+EMP-0354,Sara Al Anazi,سارة العنزي,DEP-06,Data Analyst,محلل بيانات,G05,Contract,Saudi,سعودي,Yes,Female,7/8/1993,27-05-2020,18-05-2026,End of Contract,Medina,المدينة المنورة,12400,3100,1200,EMP-0321,Outstanding
+EMP-0355,Yousef Mansour,يوسف منصور,DEP-06,IT Support Technician,فني دعم تقني,G03,Full-time,Egyptian,مصري,No,Male,27-01-1997,17-06-2023,,Active,Jeddah,جدة,4700,1175,470,EMP-0321,Exceeds Expectations
+EMP-0356,Dalal Al Harbi,دلال الحربي,DEP-06,IT Support Technician,فني دعم تقني,G03,Full-time,Saudi,سعودي,Yes,Female,3/7/1987,4/6/2024,,Active,Abha,أبها,5700,1425,570,EMP-0321,Meets Expectations
+EMP-0357,Angelica Reyes,أنجيليكا رييس,DEP-06,Systems Administrator,مدير أنظمة,G05,Full-time,Filipino,فلبيني,No,Female,29-09-1994,28-02-2021,,Active,Abha,أبها,12700,3175,1200,EMP-0321,Meets Expectations
+EMP-0358,Amal Al Otaibi,أمل العتيبي,DEP-06,IT Support Technician,فني دعم تقني,G03,Contract,Saudi,سعودي,Yes,Female,28-04-1999,8/7/2025,,Active,Yanbu,ينبع,6500,1625,650,EMP-0321,Meets Expectations
+EMP-0359,Rayan Khalil,ريان خليل,DEP-06,IT Support Technician,فني دعم تقني,G03,Full-time,Saudi,سعودي,Yes,Male,4/5/1984,1/10/2018,,Active,Mecca,مكة المكرمة,4550,1138,455,EMP-0321,Exceeds Expectations
+EMP-0360,Usman Khan,عثمان خان,DEP-06,Software Engineer,مهندس برمجيات,G06,Full-time,Pakistani,باكستاني,No,Male,17-03-2002,16-11-2024,,Active,Mecca,مكة المكرمة,15300,3825,1200,EMP-0321,Needs Improvement
+EMP-0361,Bandar Abdelrahman,بندر عبدالرحمن,DEP-07,Chief Accountant,رئيس الحسابات,G09,Full-time,Egyptian,مصري,No,Male,21-04-1989,26-04-2022,,Active,Dammam,الدمام,28350,7088,1200,,Needs Improvement
+EMP-0362,Tariq Al Otaibi,طارق العتيبي,DEP-07,Accountant,محاسب,G04,Full-time,Saudi,سعودي,Yes,Male,7/1/1994,5/12/2019,14-10-2025,Resigned,Jubail,الجبيل,7050,1763,705,EMP-0361,Meets Expectations
+EMP-0363,Hassan Al Shehri,حسن الشهري,DEP-07,Accountant,محاسب,G04,Full-time,Saudi,سعودي,Yes,Male,22-01-1984,26-04-2022,,Active,Al Khobar,الخبر,6900,1725,690,EMP-0361,Meets Expectations
+EMP-0364,Faisal Al Subaie,فيصل السبيعي,DEP-07,Accountant,محاسب,G04,Full-time,Saudi,سعودي,Yes,Male,14-04-1987,13-03-2022,,Active,Tabuk,تبوك,6050,1513,605,EMP-0361,Exceeds Expectations
+EMP-0365,Mohammed Fathi,محمد فتحي,DEP-07,Finance Manager,مدير مالي,G08,Full-time,Sudanese,سوداني,No,Male,9/9/1994,26-10-2025,,Active,Tabuk,تبوك,20850,5213,1200,EMP-0361,Exceeds Expectations
+EMP-0366,Jood Khalil,جود خليل,DEP-07,Senior Accountant,محاسب أول,G05,Full-time,Saudi,سعودي,Yes,Female,17-06-1995,31-05-2019,,Active,Yanbu,ينبع,12100,3025,1200,EMP-0361,Needs Improvement
+EMP-0367,Sara Saleh,سارة صالح,DEP-07,Accountant,محاسب,G04,Full-time,Sudanese,سوداني,No,Female,16-06-1994,8/11/2025,,Active,Abha,أبها,8500,2125,850,EMP-0361,Meets Expectations
+EMP-0368,Kashif Malik,كاشف مالك,DEP-07,Finance Manager,مدير مالي,G08,Full-time,Pakistani,باكستاني,No,Male,16-05-1977,18-02-2022,,Active,Al Khobar,الخبر,26850,6713,1200,EMP-0361,Meets Expectations
+EMP-0369,Majed Al Qahtani,ماجد القحطاني,DEP-07,Accountant,محاسب,G04,Contract,Saudi,سعودي,Yes,Male,22-02-1991,15-09-2019,,Active,Tabuk,تبوك,7050,1763,705,EMP-0361,Needs Improvement
+EMP-0370,Reem Mansour,ريم منصور,DEP-07,Accountant,محاسب,G04,Temporary,Saudi,سعودي,Yes,Female,5/6/1993,30-03-2023,,Active,Tabuk,تبوك,7150,1788,715,EMP-0361,Exceeds Expectations
+EMP-0371,Mohammed Al Ghamdi,محمد الغامدي,DEP-07,Senior Accountant,محاسب أول,G05,Full-time,Egyptian,مصري,No,Male,21-05-1992,5/9/2025,,Active,Yanbu,ينبع,11150,2788,1115,EMP-0361,Meets Expectations
+EMP-0372,Turki Al Anazi,تركي العنزي,DEP-07,Accountant,محاسب,G04,Full-time,Egyptian,مصري,No,Male,3/11/1992,8/12/2018,25-04-2026,End of Contract,Jeddah,جدة,7450,1863,745,EMP-0361,Meets Expectations
+EMP-0373,Ahmed Abdelrahman,أحمد عبدالرحمن,DEP-07,Finance Manager,مدير مالي,G08,Full-time,Saudi,سعودي,Yes,Male,4/2/1990,5/3/2020,,Active,Dammam,الدمام,26000,6500,1200,EMP-0361,Meets Expectations
+EMP-0374,Vijay Kumar,فيجاي كومار,DEP-07,Accountant,محاسب,G04,Part-time,Indian,هندي,No,Male,7/12/1986,22-11-2024,,Active,Abha,أبها,8650,2163,865,EMP-0361,Exceeds Expectations
+EMP-0375,Anil Nair,أنيل ناير,DEP-07,Senior Accountant,محاسب أول,G05,Full-time,Indian,هندي,No,Male,15-02-1993,26-04-2021,,Active,Medina,المدينة المنورة,9600,2400,960,EMP-0361,Exceeds Expectations
+EMP-0376,Ahmed Al Otaibi,أحمد العتيبي,DEP-07,Finance Manager,مدير مالي,G08,Full-time,Egyptian,مصري,No,Male,26-06-1981,4/1/2025,29-05-2026,Resigned,Jeddah,جدة,26700,6675,1200,EMP-0361,Exceeds Expectations
+EMP-0377,Usman Chaudhry,عثمان تشودري,DEP-07,Financial Analyst,محلل مالي,G06,Full-time,Pakistani,باكستاني,No,Male,4/11/1981,24-09-2019,,Active,Riyadh,الرياض,15650,3913,1200,EMP-0361,Meets Expectations
+EMP-0378,Rahim Rahman,رحيم الرحمن,DEP-07,Financial Analyst,محلل مالي,G06,Full-time,Bangladeshi,بنغلاديشي,No,Male,30-12-1996,10/6/2021,,Active,Tabuk,تبوك,12300,3075,1200,EMP-0361,Meets Expectations
+EMP-0379,Yousef Al Subaie,يوسف السبيعي,DEP-07,Financial Analyst,محلل مالي,G06,Full-time,Saudi,سعودي,Yes,Male,20-09-1983,27-04-2018,,Active,Al Khobar,الخبر,16750,4188,1200,EMP-0361,Needs Improvement
+EMP-0380,Khalid Saleh,خالد صالح,DEP-07,Senior Accountant,محاسب أول,G05,Full-time,Saudi,سعودي,Yes,Male,31-10-1991,31-05-2026,,Active,Yanbu,ينبع,12150,3038,1200,EMP-0361,Exceeds Expectations
+EMP-0381,Saud Al Dossari,سعود الدوسري,DEP-07,Accountant,محاسب,G04,Full-time,Saudi,سعودي,Yes,Male,2/7/1993,18-02-2021,,Active,Mecca,مكة المكرمة,8300,2075,830,EMP-0361,Meets Expectations
+EMP-0382,Ziad Al Malki,زياد المالكي,DEP-07,Senior Accountant,محاسب أول,G05,Full-time,Saudi,سعودي,Yes,Male,25-06-2001,9/1/2024,,Active,Abha,أبها,12900,3225,1200,EMP-0361,Meets Expectations
+EMP-0383,Nasser Al Malki,ناصر المالكي,DEP-07,Accountant,محاسب,G04,Full-time,Saudi,سعودي,Yes,Male,2/7/1982,31-08-2019,,Active,Al Khobar,الخبر,8250,2063,825,EMP-0361,Meets Expectations
+EMP-0384,Sanjay Iyer,سانجاي أيار,DEP-07,Financial Analyst,محلل مالي,G06,Part-time,Indian,هندي,No,Male,4/9/1999,17-08-2022,,Active,Jeddah,جدة,13550,3388,1200,EMP-0361,Meets Expectations
+EMP-0385,Ahmed Al Zahrani,أحمد الزهراني,DEP-07,Accountant,محاسب,G04,Contract,Saudi,سعودي,Yes,Male,5/11/1986,21-11-2024,,Active,Abha,أبها,6650,1663,665,EMP-0361,Meets Expectations
+EMP-0386,Abdullah Saleh,عبدالله صالح,DEP-07,Accountant,محاسب,G04,Contract,Saudi,سعودي,Yes,Male,18-03-2004,18-04-2026,,Active,Jeddah,جدة,7800,1950,780,EMP-0361,Meets Expectations
+EMP-0387,Nasser Khalil,ناصر خليل,DEP-07,Accountant,محاسب,G04,Full-time,Saudi,سعودي,Yes,Male,31-08-1988,11/1/2020,,Active,Mecca,مكة المكرمة,7700,1925,770,EMP-0361,Meets Expectations
+EMP-0388,Rayan Fathi,ريان فتحي,DEP-07,Accountant,محاسب,G04,Full-time,Saudi,سعودي,Yes,Male,8/1/1996,26-06-2018,,Active,Riyadh,الرياض,8300,2075,830,EMP-0361,Meets Expectations
+EMP-0389,Mizanur Rahman,ميزان الرحمن الرحمن,DEP-07,Accountant,محاسب,G04,Full-time,Bangladeshi,بنغلاديشي,No,Male,20-03-1997,21-03-2024,,Active,Al Khobar,الخبر,8650,2163,865,EMP-0361,Meets Expectations
+EMP-0390,Nasser Saleh,ناصر صالح,DEP-07,Accountant,محاسب,G04,Full-time,Yemeni,يمني,No,Male,14-07-1982,18-04-2020,,Active,Jeddah,جدة,6250,1563,625,EMP-0361,Meets Expectations
+EMP-0391,Mona Al Malki,منى المالكي,DEP-07,Senior Accountant,محاسب أول,G05,Full-time,Saudi,سعودي,Yes,Female,1/3/1989,26-07-2021,,Active,Abha,أبها,11600,2900,1160,EMP-0361,Needs Improvement
+EMP-0392,Dalal Al Subaie,دلال السبيعي,DEP-07,Financial Analyst,محلل مالي,G06,Full-time,Saudi,سعودي,Yes,Female,7/10/1999,29-05-2025,13-09-2025,Resigned,Dammam,الدمام,16550,4138,1200,EMP-0361,Needs Improvement
+EMP-0393,Waleed Mansour,وليد منصور,DEP-07,Accountant,محاسب,G04,Full-time,Sudanese,سوداني,No,Male,30-03-1990,23-09-2024,,Active,Jeddah,جدة,8700,2175,870,EMP-0361,Meets Expectations
+EMP-0394,Ravi Sharma,رافي شارما,DEP-07,Senior Accountant,محاسب أول,G05,Full-time,Indian,هندي,No,Male,2/6/1991,12/10/2022,,Active,Jeddah,جدة,11350,2838,1135,EMP-0361,Meets Expectations
+EMP-0395,Asif Malik,آصف مالك,DEP-07,Finance Manager,مدير مالي,G08,Full-time,Pakistani,باكستاني,No,Male,10/11/1979,7/1/2021,,Active,Dammam,الدمام,26050,6513,1200,EMP-0361,Outstanding
+EMP-0396,Bandar Al Zahrani,بندر الزهراني,DEP-08,HR Manager,مدير الموارد البشرية,G08,Full-time,Saudi,سعودي,Yes,Male,3/1/1985,21-08-2025,,Active,Dammam,الدمام,28150,7038,1200,,Meets Expectations
+EMP-0397,Arun Kumar,أرون كومار,DEP-08,HR Business Partner,شريك أعمال الموارد البشرية,G07,Full-time,Indian,هندي,No,Male,6/3/1996,17-08-2025,,Active,Jubail,الجبيل,19150,4788,1200,EMP-0396,Outstanding
+EMP-0398,Rayan Mansour,ريان منصور,DEP-08,Payroll Specialist,أخصائي رواتب,G05,Full-time,Saudi,سعودي,Yes,Male,4/5/1984,2/10/2019,,Active,Dammam,الدمام,12000,3000,1200,EMP-0396,Meets Expectations
+EMP-0399,Rahim Hossain,رحيم حسين,DEP-08,HR Coordinator,منسق موارد بشرية,G03,Full-time,Bangladeshi,بنغلاديشي,No,Male,26-04-1984,15-06-2018,,Active,Mecca,مكة المكرمة,5350,1338,535,EMP-0396,Needs Improvement
+EMP-0400,Tariq Al Harbi,طارق الحربي,DEP-08,HR Coordinator,منسق موارد بشرية,G03,Contract,Egyptian,مصري,No,Male,3/7/1991,9/11/2018,,Active,Riyadh,الرياض,5050,1263,505,EMP-0396,Meets Expectations
+EMP-0401,Bandar Khalil,بندر خليل,DEP-08,HR Coordinator,منسق موارد بشرية,G03,Full-time,Jordanian,أردني,No,Male,28-11-1990,29-05-2026,,Active,Abha,أبها,5000,1250,500,EMP-0396,Needs Improvement
+EMP-0402,Anil Sharma,أنيل شارما,DEP-08,Payroll Specialist,أخصائي رواتب,G05,Full-time,Indian,هندي,No,Male,28-12-1993,30-06-2018,,Active,Abha,أبها,13000,3250,1200,EMP-0396,Needs Improvement
+EMP-0403,Maha Al Qahtani,مها القحطاني,DEP-08,Payroll Specialist,أخصائي رواتب,G05,Full-time,Saudi,سعودي,Yes,Female,26-01-1998,24-01-2020,,Active,Mecca,مكة المكرمة,8750,2188,875,EMP-0396,Under Review
+EMP-0404,Tariq Al Harbi,طارق الحربي,DEP-08,HR Coordinator,منسق موارد بشرية,G03,Full-time,Saudi,سعودي,Yes,Male,1/8/1996,3/3/2026,,Active,Jeddah,جدة,4900,1225,490,EMP-0396,Exceeds Expectations
+EMP-0405,Jenny Villanueva,جيني فيلانويفا,DEP-08,Payroll Specialist,أخصائي رواتب,G05,Full-time,Filipino,فلبيني,No,Female,3/10/1986,12/3/2023,16-01-2026,Resigned,Yanbu,ينبع,10950,2738,1095,EMP-0396,Meets Expectations
+EMP-0406,Ahmed Al Qahtani,أحمد القحطاني,DEP-08,Payroll Specialist,أخصائي رواتب,G05,Full-time,Saudi,سعودي,Yes,Male,28-06-1987,12/6/2019,,Active,Abha,أبها,12400,3100,1200,EMP-0396,Meets Expectations
+EMP-0407,Ahmed Al Shehri,أحمد الشهري,DEP-08,HR Coordinator,منسق موارد بشرية,G03,Full-time,Sudanese,سوداني,No,Male,6/2/1987,30-06-2019,,Active,Medina,المدينة المنورة,6150,1538,615,EMP-0396,Meets Expectations
+EMP-0408,Rahim Islam,رحيم إسلام,DEP-08,Payroll Specialist,أخصائي رواتب,G05,Full-time,Bangladeshi,بنغلاديشي,No,Male,18-06-1997,13-02-2026,11/5/2026,Retired,Mecca,مكة المكرمة,8800,2200,880,EMP-0396,Meets Expectations
+EMP-0409,Bandar Khalil,بندر خليل,DEP-08,HR Coordinator,منسق موارد بشرية,G03,Full-time,Saudi,سعودي,Yes,Male,1/6/1986,9/4/2023,,Active,Jubail,الجبيل,5450,1363,545,EMP-0396,Outstanding
+EMP-0410,Noura Al Dossari,نورة الدوسري,DEP-08,HR Coordinator,منسق موارد بشرية,G03,Full-time,Saudi,سعودي,Yes,Female,4/7/1990,18-06-2019,,Active,Al Khobar,الخبر,6300,1575,630,EMP-0396,Outstanding
+EMP-0411,Ahmed Mansour,أحمد منصور,DEP-08,Payroll Specialist,أخصائي رواتب,G05,Full-time,Saudi,سعودي,Yes,Male,6/9/1999,16-01-2025,,Active,Riyadh,الرياض,9350,2338,935,EMP-0396,Exceeds Expectations
+EMP-0412,Waleed Al Shehri,وليد الشهري,DEP-08,HR Coordinator,منسق موارد بشرية,G03,Full-time,Syrian,سوري,No,Male,13-03-1997,10/9/2023,10/2/2026,Resigned,Abha,أبها,6400,1600,640,EMP-0396,Meets Expectations
+EMP-0413,Rayan Al Subaie,ريان السبيعي,DEP-08,Payroll Specialist,أخصائي رواتب,G05,Full-time,Saudi,سعودي,Yes,Male,11/3/1987,27-08-2020,25-07-2025,Resigned,Al Khobar,الخبر,11500,2875,1150,EMP-0396,Needs Improvement
+EMP-0414,Vijay Reddy,فيجاي ريدي,DEP-08,HR Coordinator,منسق موارد بشرية,G03,Full-time,Indian,هندي,No,Male,12/7/2000,29-11-2023,,Active,Al Khobar,الخبر,6300,1575,630,EMP-0396,Meets Expectations
+EMP-0415,Hassan Fathi,حسن فتحي,DEP-08,HR Coordinator,منسق موارد بشرية,G03,Full-time,Saudi,سعودي,Yes,Male,21-07-1987,22-10-2022,,Active,Jeddah,جدة,5800,1450,580,EMP-0396,Needs Improvement
+EMP-0416,Waleed Saleh,وليد صالح,DEP-08,HR Coordinator,منسق موارد بشرية,G03,Full-time,Saudi,سعودي,Yes,Male,8/5/1990,12/5/2020,,Active,Yanbu,ينبع,4600,1150,460,EMP-0396,Outstanding
+EMP-0417,Waleed Al Qahtani,وليد القحطاني,DEP-08,HR Coordinator,منسق موارد بشرية,G03,Full-time,Saudi,سعودي,Yes,Male,26-07-1993,9/11/2021,,Active,Abha,أبها,5900,1475,590,EMP-0396,Meets Expectations
+EMP-0418,Faisal Al Balawi,فيصل البلوي,DEP-08,Payroll Specialist,أخصائي رواتب,G05,Full-time,Saudi,سعودي,Yes,Male,12/10/1989,11/9/2025,,Active,Yanbu,ينبع,9950,2488,995,EMP-0396,Exceeds Expectations
+EMP-0419,Majed Saleh,ماجد صالح,DEP-08,HR Coordinator,منسق موارد بشرية,G03,Contract,Saudi,سعودي,Yes,Male,27-08-1988,10/4/2025,,Active,Jubail,الجبيل,5850,1463,585,EMP-0396,Meets Expectations
+EMP-0420,Nasser Al Balawi,ناصر البلوي,DEP-08,HR Coordinator,منسق موارد بشرية,G03,Full-time,Saudi,سعودي,Yes,Male,30-01-1986,7/7/2018,,Active,Abha,أبها,4700,1175,470,EMP-0396,Meets Expectations
+EMP-0421,Nasser Abdelrahman,ناصر عبدالرحمن,DEP-08,Recruitment Specialist,أخصائي توظيف,G05,Contract,Saudi,سعودي,Yes,Male,16-02-1986,29-06-2018,21-07-2025,Resigned,Al Khobar,الخبر,12150,3038,1200,EMP-0396,Meets Expectations
+EMP-0422,Sultan Fathi,سلطان فتحي,DEP-08,Recruitment Specialist,أخصائي توظيف,G05,Full-time,Saudi,سعودي,Yes,Male,26-06-1999,3/9/2022,,Active,Abha,أبها,9200,2300,920,EMP-0396,Meets Expectations
+EMP-0423,Mohammed Saleh,محمد صالح,DEP-08,Recruitment Specialist,أخصائي توظيف,G05,Full-time,Saudi,سعودي,Yes,Male,21-11-1994,3/2/2021,25-07-2025,Retired,Riyadh,الرياض,10250,2563,1025,EMP-0396,Meets Expectations
+EMP-0424,Reem Al Otaibi,ريم العتيبي,DEP-08,HR Business Partner,شريك أعمال الموارد البشرية,G07,Full-time,Saudi,سعودي,Yes,Female,21-08-1989,29-08-2022,,Active,Abha,أبها,17650,4413,1200,EMP-0396,Meets Expectations
+EMP-0425,Deepa Reddy,ديبا ريدي,DEP-08,HR Coordinator,منسق موارد بشرية,G03,Full-time,Indian,هندي,No,Female,29-03-1996,21-04-2022,,Active,Jeddah,جدة,5950,1488,595,EMP-0396,Meets Expectations
+EMP-0426,Rajesh Patel,راجيش باتيل,DEP-09,Procurement Manager,مدير المشتريات,G08,Full-time,Indian,هندي,No,Male,21-02-1981,28-05-2022,,Active,Medina,المدينة المنورة,29150,7288,1200,,Under Review
+EMP-0427,Rajesh Iyer,راجيش أيار,DEP-09,Purchasing Officer,موظف مشتريات,G04,Full-time,Indian,هندي,No,Male,19-09-1986,30-05-2018,,Active,Medina,المدينة المنورة,7750,1938,775,EMP-0426,Meets Expectations
+EMP-0428,Mahmoud Khalil,محمود خليل,DEP-09,Buyer,مشترٍ,G05,Full-time,Yemeni,يمني,No,Male,13-04-1996,29-09-2022,,Active,Mecca,مكة المكرمة,10850,2713,1085,EMP-0426,Exceeds Expectations
+EMP-0429,Adnan Iqbal,عدنان إقبال,DEP-09,Purchasing Officer,موظف مشتريات,G04,Part-time,Pakistani,باكستاني,No,Male,1/10/1994,20-06-2023,,Active,Jubail,الجبيل,8300,2075,830,EMP-0426,Meets Expectations
+EMP-0430,Mizanur Hossain,ميزان الرحمن حسين,DEP-09,Purchasing Officer,موظف مشتريات,G04,Contract,Bangladeshi,بنغلاديشي,No,Male,27-03-1985,12/11/2020,,Active,Jubail,الجبيل,6400,1600,640,EMP-0426,Exceeds Expectations
+EMP-0431,Mizanur Sarker,ميزان الرحمن ساركار,DEP-09,Purchasing Officer,موظف مشتريات,G04,Full-time,Bangladeshi,بنغلاديشي,No,Male,9/12/1988,3/2/2025,,Active,Medina,المدينة المنورة,8450,2113,845,EMP-0426,Exceeds Expectations
+EMP-0432,Ghada Al Zahrani,غادة الزهراني,DEP-09,Purchasing Officer,موظف مشتريات,G04,Contract,Saudi,سعودي,Yes,Female,28-10-1990,9/7/2023,,Active,Riyadh,الرياض,8650,2163,865,EMP-0426,Meets Expectations
+EMP-0433,Ibrahim Al Malki,إبراهيم المالكي,DEP-09,Contracts Specialist,أخصائي عقود,G06,Full-time,Egyptian,مصري,No,Male,22-05-1983,2/2/2019,,Active,Al Khobar,الخبر,16100,4025,1200,EMP-0426,Meets Expectations
+EMP-0434,Kashif Ahmed,كاشف أحمد,DEP-09,Buyer,مشترٍ,G05,Full-time,Pakistani,باكستاني,No,Male,6/5/1986,22-12-2023,,Active,Mecca,مكة المكرمة,12250,3063,1200,EMP-0426,Meets Expectations
+EMP-0435,Mohammed Al Anazi,محمد العنزي,DEP-09,Buyer,مشترٍ,G05,Full-time,Saudi,سعودي,Yes,Male,20-08-1985,20-12-2022,,Active,Jeddah,جدة,8750,2188,875,EMP-0426,Outstanding
+EMP-0436,Omar Al Zahrani,عمر الزهراني,DEP-09,Purchasing Officer,موظف مشتريات,G04,Full-time,Egyptian,مصري,No,Male,9/5/1999,22-01-2023,,Active,Jubail,الجبيل,7450,1863,745,EMP-0426,Meets Expectations
+EMP-0437,Rajesh Patel,راجيش باتيل,DEP-09,Purchasing Officer,موظف مشتريات,G04,Full-time,Indian,هندي,No,Male,16-07-1990,8/3/2026,,Active,Yanbu,ينبع,6950,1738,695,EMP-0426,Needs Improvement
+EMP-0438,Turki Al Subaie,تركي السبيعي,DEP-09,Buyer,مشترٍ,G05,Full-time,Egyptian,مصري,No,Male,29-04-1991,15-02-2021,,Active,Tabuk,تبوك,8900,2225,890,EMP-0426,Meets Expectations
+EMP-0439,Mizanur Hossain,ميزان الرحمن حسين,DEP-09,Purchasing Officer,موظف مشتريات,G04,Full-time,Bangladeshi,بنغلاديشي,No,Male,19-08-1994,30-04-2019,,Active,Jeddah,جدة,6250,1563,625,EMP-0426,Exceeds Expectations
+EMP-0440,Shirin Miah,شيرين ميا,DEP-09,Purchasing Officer,موظف مشتريات,G04,Full-time,Bangladeshi,بنغلاديشي,No,Female,13-03-1992,18-12-2024,,Active,Tabuk,تبوك,6800,1700,680,EMP-0426,Meets Expectations
+EMP-0441,Turki Al Shehri,تركي الشهري,DEP-09,Contracts Specialist,أخصائي عقود,G06,Full-time,Saudi,سعودي,Yes,Male,22-04-1988,31-07-2019,,Active,Yanbu,ينبع,16850,4213,1200,EMP-0426,Exceeds Expectations
+EMP-0442,Omar Al Balawi,عمر البلوي,DEP-09,Purchasing Officer,موظف مشتريات,G04,Full-time,Saudi,سعودي,Yes,Male,15-06-1998,28-07-2021,,Active,Yanbu,ينبع,7800,1950,780,EMP-0426,Meets Expectations
+EMP-0443,Rayan Al Qahtani,ريان القحطاني,DEP-09,Buyer,مشترٍ,G05,Full-time,Egyptian,مصري,No,Male,17-01-1983,13-05-2021,,Active,Riyadh,الرياض,9850,2463,985,EMP-0426,Exceeds Expectations
+EMP-0444,Abdullah Abdelrahman,عبدالله عبدالرحمن,DEP-09,Purchasing Officer,موظف مشتريات,G04,Full-time,Saudi,سعودي,Yes,Male,10/6/1995,10/2/2020,,Active,Abha,أبها,8500,2125,850,EMP-0426,Meets Expectations
+EMP-0445,Jayson Reyes,جايسون رييس,DEP-09,Buyer,مشترٍ,G05,Part-time,Filipino,فلبيني,No,Male,19-02-1992,21-06-2021,,Active,Dammam,الدمام,10900,2725,1090,EMP-0426,Meets Expectations
+EMP-0446,Hassan Al Qahtani,حسن القحطاني,DEP-09,Buyer,مشترٍ,G05,Full-time,Saudi,سعودي,Yes,Male,11/11/1990,10/10/2019,,Active,Mecca,مكة المكرمة,11600,2900,1160,EMP-0426,Needs Improvement
+EMP-0447,Tariq Al Dossari,طارق الدوسري,DEP-09,Purchasing Officer,موظف مشتريات,G04,Full-time,Egyptian,مصري,No,Male,6/7/1992,6/6/2026,,Active,Dammam,الدمام,7750,1938,775,EMP-0426,Exceeds Expectations
+EMP-0448,Aisha Al Harbi,عائشة الحربي,DEP-09,Buyer,مشترٍ,G05,Full-time,Saudi,سعودي,Yes,Female,9/7/1998,27-05-2025,,Active,Dammam,الدمام,12400,3100,1200,EMP-0426,Needs Improvement
+EMP-0449,Majed Al Malki,ماجد المالكي,DEP-09,Purchasing Officer,موظف مشتريات,G04,Full-time,Saudi,سعودي,Yes,Male,16-04-1986,2/1/2021,,Active,Al Khobar,الخبر,6350,1588,635,EMP-0426,Meets Expectations
+EMP-0450,Prakash Reddy,براكاش ريدي,DEP-09,Purchasing Officer,موظف مشتريات,G04,Full-time,Indian,هندي,No,Male,25-06-1998,7/4/2020,17-07-2025,Terminated,Al Khobar,الخبر,6050,1513,605,EMP-0426,Meets Expectations
+EMP-0451,Anil Patel,أنيل باتيل,DEP-10,Marketing Manager,مدير التسويق,G08,Full-time,Indian,هندي,No,Male,7/11/1974,25-05-2018,,Active,Mecca,مكة المكرمة,26850,6713,1200,,Meets Expectations
+EMP-0452,Omar Al Anazi,عمر العنزي,DEP-10,Marketing Coordinator,منسق تسويق,G03,Full-time,Saudi,سعودي,Yes,Male,10/3/1995,30-01-2018,,Active,Al Khobar,الخبر,6500,1625,650,EMP-0451,Meets Expectations
+EMP-0453,Abdullah Abdelrahman,عبدالله عبدالرحمن,DEP-10,Marketing Coordinator,منسق تسويق,G03,Full-time,Saudi,سعودي,Yes,Male,28-01-1998,18-05-2020,,Active,Yanbu,ينبع,6300,1575,630,EMP-0451,Meets Expectations
+EMP-0454,Reem Al Anazi,ريم العنزي,DEP-10,Marketing Coordinator,منسق تسويق,G03,Contract,Saudi,سعودي,Yes,Female,18-11-1989,27-01-2019,,Active,Yanbu,ينبع,5300,1325,530,EMP-0451,Meets Expectations
+EMP-0455,Ahmed Al Dossari,أحمد الدوسري,DEP-10,Marketing Coordinator,منسق تسويق,G03,Full-time,Egyptian,مصري,No,Male,9/9/2002,22-11-2024,23-04-2026,Resigned,Tabuk,تبوك,4800,1200,480,EMP-0451,Exceeds Expectations
+EMP-0456,Lama Abdelrahman,لمى عبدالرحمن,DEP-10,Marketing Coordinator,منسق تسويق,G03,Full-time,Saudi,سعودي,Yes,Female,15-03-1991,10/6/2026,,Active,Abha,أبها,5900,1475,590,EMP-0451,Outstanding
+EMP-0457,Ziad Al Otaibi,زياد العتيبي,DEP-10,Marketing Coordinator,منسق تسويق,G03,Full-time,Saudi,سعودي,Yes,Male,26-08-1985,25-04-2018,,Active,Riyadh,الرياض,5050,1263,505,EMP-0451,Under Review
+EMP-0458,Lama Al Zahrani,لمى الزهراني,DEP-10,Marketing Coordinator,منسق تسويق,G03,Part-time,Saudi,سعودي,Yes,Female,23-08-2003,27-09-2024,22-07-2025,Terminated,Medina,المدينة المنورة,6100,1525,610,EMP-0451,Exceeds Expectations
+EMP-0459,Shatha Khalil,شذى خليل,DEP-10,Marketing Coordinator,منسق تسويق,G03,Contract,Saudi,سعودي,Yes,Female,16-05-1992,14-04-2019,,Active,Jeddah,جدة,6400,1600,640,EMP-0451,Meets Expectations
+EMP-0460,Aisha Fathi,عائشة فتحي,DEP-10,Digital Marketing Specialist,أخصائي تسويق رقمي,G05,Full-time,Jordanian,أردني,No,Female,2/8/1990,28-08-2020,,Active,Mecca,مكة المكرمة,10050,2513,1005,EMP-0451,Meets Expectations
+EMP-0461,Waleed Saleh,وليد صالح,DEP-10,Marketing Coordinator,منسق تسويق,G03,Full-time,Saudi,سعودي,Yes,Male,19-07-1996,16-11-2019,,Active,Jubail,الجبيل,4900,1225,490,EMP-0451,Meets Expectations
+EMP-0462,Saud Khalil,سعود خليل,DEP-10,Marketing Coordinator,منسق تسويق,G03,Temporary,Egyptian,مصري,No,Male,21-01-1988,27-08-2019,24-06-2025,Terminated,Yanbu,ينبع,5400,1350,540,EMP-0451,Meets Expectations
+EMP-0463,Imran Ahmed,عمران أحمد,DEP-10,Marketing Coordinator,منسق تسويق,G03,Contract,Pakistani,باكستاني,No,Male,10/6/1994,30-08-2023,,Active,Dammam,الدمام,5850,1463,585,EMP-0451,Needs Improvement
+EMP-0464,Bandar Al Shehri,بندر الشهري,DEP-10,Marketing Coordinator,منسق تسويق,G03,Full-time,Saudi,سعودي,Yes,Male,15-09-1989,1/7/2021,,Active,Abha,أبها,5800,1450,580,EMP-0451,Meets Expectations
+EMP-0465,Arun Pillai,أرون بيلاي,DEP-10,Digital Marketing Specialist,أخصائي تسويق رقمي,G05,Full-time,Indian,هندي,No,Male,26-12-1996,13-10-2023,,Active,Jeddah,جدة,11200,2800,1120,EMP-0451,Needs Improvement
+EMP-0466,Yousef Al Shehri,يوسف الشهري,DEP-10,Digital Marketing Specialist,أخصائي تسويق رقمي,G05,Full-time,Egyptian,مصري,No,Male,26-07-1986,7/11/2022,,Active,Riyadh,الرياض,11900,2975,1190,EMP-0451,Needs Improvement
+EMP-0467,Bandar Al Harbi,بندر الحربي,DEP-10,Marketing Coordinator,منسق تسويق,G03,Full-time,Saudi,سعودي,Yes,Male,6/7/1994,10/4/2019,,Active,Riyadh,الرياض,4650,1163,465,EMP-0451,Meets Expectations
+EMP-0468,Khalid Al Dossari,خالد الدوسري,DEP-10,Brand Specialist,أخصائي علامة تجارية,G05,Full-time,Sudanese,سوداني,No,Male,21-02-1984,8/1/2019,,Active,Al Khobar,الخبر,11850,2963,1185,EMP-0451,Needs Improvement
+EMP-0469,Turki Al Balawi,تركي البلوي,DEP-10,Marketing Coordinator,منسق تسويق,G03,Full-time,Egyptian,مصري,No,Male,15-04-1980,2/1/2018,,Active,Mecca,مكة المكرمة,4600,1150,460,EMP-0451,Meets Expectations
+EMP-0470,Yousef Al Zahrani,يوسف الزهراني,DEP-10,Marketing Coordinator,منسق تسويق,G03,Full-time,Egyptian,مصري,No,Male,3/10/2000,17-01-2025,,Active,Al Khobar,الخبر,4600,1150,460,EMP-0451,Meets Expectations
+EMP-0471,Abdullah Mansour,عبدالله منصور,DEP-11,HSE Manager,مدير الصحة والسلامة,G08,Full-time,Saudi,سعودي,Yes,Male,19-11-1989,24-09-2021,,Active,Jeddah,جدة,25000,6250,1200,,Exceeds Expectations
+EMP-0472,Hassan Al Shehri,حسن الشهري,DEP-11,Safety Officer,مسؤول سلامة,G04,Part-time,Saudi,سعودي,Yes,Male,15-06-1986,4/12/2019,,Active,Medina,المدينة المنورة,8600,2150,860,EMP-0471,Meets Expectations
+EMP-0473,Bandar Al Zahrani,بندر الزهراني,DEP-11,Safety Officer,مسؤول سلامة,G04,Full-time,Saudi,سعودي,Yes,Male,30-09-1989,27-03-2023,,Active,Jubail,الجبيل,8150,2038,815,EMP-0471,Needs Improvement
+EMP-0474,Bandar Khalil,بندر خليل,DEP-11,Safety Officer,مسؤول سلامة,G04,Contract,Saudi,سعودي,Yes,Male,25-09-1997,21-07-2019,,Active,Dammam,الدمام,7700,1925,770,EMP-0471,Meets Expectations
+EMP-0475,Mizanur Islam,ميزان الرحمن إسلام,DEP-11,HSE Specialist,أخصائي صحة وسلامة,G05,Full-time,Bangladeshi,بنغلاديشي,No,Male,1/8/1983,1/5/2021,,Active,Dammam,الدمام,12800,3200,1200,EMP-0471,Meets Expectations
+EMP-0476,Faruk Miah,فاروق ميا,DEP-11,HSE Supervisor,مشرف صحة وسلامة,G06,Full-time,Bangladeshi,بنغلاديشي,No,Male,21-10-1985,17-09-2023,,Active,Medina,المدينة المنورة,14600,3650,1200,EMP-0471,Meets Expectations
+EMP-0477,Adnan Chaudhry,عدنان تشودري,DEP-11,HSE Supervisor,مشرف صحة وسلامة,G06,Full-time,Pakistani,باكستاني,No,Male,5/5/1999,10/1/2026,,Active,Yanbu,ينبع,13900,3475,1200,EMP-0471,Meets Expectations
+EMP-0478,Jood Khalil,جود خليل,DEP-11,Safety Officer,مسؤول سلامة,G04,Full-time,Saudi,سعودي,Yes,Female,14-02-1994,18-12-2020,,Active,Dammam,الدمام,7500,1875,750,EMP-0471,Outstanding
+EMP-0479,Nasser Al Dossari,ناصر الدوسري,DEP-11,HSE Specialist,أخصائي صحة وسلامة,G05,Full-time,Saudi,سعودي,Yes,Male,8/8/1990,15-01-2026,,Active,Tabuk,تبوك,12950,3238,1200,EMP-0471,Meets Expectations
+EMP-0480,Priya Reddy,بريا ريدي,DEP-11,HSE Supervisor,مشرف صحة وسلامة,G06,Full-time,Indian,هندي,No,Female,25-06-1996,12/2/2020,,Active,Abha,أبها,14150,3538,1200,EMP-0471,Exceeds Expectations
+EMP-0481,Jood Fathi,جود فتحي,DEP-11,HSE Supervisor,مشرف صحة وسلامة,G06,Part-time,Egyptian,مصري,No,Female,2/2/1992,7/6/2019,,Active,Riyadh,الرياض,15500,3875,1200,EMP-0471,Meets Expectations
+EMP-0482,Kashif Raza,كاشف رضا,DEP-11,Safety Officer,مسؤول سلامة,G04,Full-time,Pakistani,باكستاني,No,Male,2/4/1983,28-11-2018,,Active,Yanbu,ينبع,8400,2100,840,EMP-0471,Exceeds Expectations
+EMP-0483,Ziad Al Harbi,زياد الحربي,DEP-11,HSE Specialist,أخصائي صحة وسلامة,G05,Full-time,Saudi,سعودي,Yes,Male,17-02-1981,20-11-2018,,Active,Tabuk,تبوك,8800,2200,880,EMP-0471,Exceeds Expectations
+EMP-0484,Majed Al Harbi,ماجد الحربي,DEP-11,HSE Specialist,أخصائي صحة وسلامة,G05,Full-time,Saudi,سعودي,Yes,Male,10/10/1989,9/1/2021,,Active,Jeddah,جدة,10600,2650,1060,EMP-0471,Meets Expectations
+EMP-0485,Arun Menon,أرون مينون,DEP-11,HSE Specialist,أخصائي صحة وسلامة,G05,Contract,Indian,هندي,No,Male,31-07-1993,17-09-2021,,Active,Abha,أبها,10100,2525,1010,EMP-0471,Exceeds Expectations
+EMP-0486,Waleed Al Otaibi,وليد العتيبي,DEP-11,HSE Supervisor,مشرف صحة وسلامة,G06,Full-time,Saudi,سعودي,Yes,Male,15-01-1988,22-07-2023,14-04-2025,Terminated,Jubail,الجبيل,14700,3675,1200,EMP-0471,Meets Expectations
+EMP-0487,Saud Khalil,سعود خليل,DEP-11,HSE Specialist,أخصائي صحة وسلامة,G05,Full-time,Saudi,سعودي,Yes,Male,18-08-1984,27-03-2021,,Active,Riyadh,الرياض,10850,2713,1085,EMP-0471,Meets Expectations
+EMP-0488,Sara Khalil,سارة خليل,DEP-11,HSE Specialist,أخصائي صحة وسلامة,G05,Full-time,Yemeni,يمني,No,Female,20-08-1997,27-07-2020,,Active,Medina,المدينة المنورة,10850,2713,1085,EMP-0471,Meets Expectations
+EMP-0489,Adnan Khan,عدنان خان,DEP-11,HSE Specialist,أخصائي صحة وسلامة,G05,Full-time,Pakistani,باكستاني,No,Male,27-06-1995,9/11/2022,,Active,Dammam,الدمام,11700,2925,1170,EMP-0471,Meets Expectations
+EMP-0490,Vijay Menon,فيجاي مينون,DEP-11,Safety Officer,مسؤول سلامة,G04,Full-time,Indian,هندي,No,Male,14-06-1992,14-03-2025,,Active,Medina,المدينة المنورة,6250,1563,625,EMP-0471,Meets Expectations
+EMP-0491,Mohammed Al Balawi,محمد البلوي,DEP-12,Legal Manager,مدير الشؤون القانونية,G09,Full-time,Saudi,سعودي,Yes,Male,2/4/1990,3/7/2022,,Active,Medina,المدينة المنورة,37150,9288,1200,,Meets Expectations
+EMP-0492,Sultan Saleh,سلطان صالح,DEP-12,Legal Counsel,مستشار قانوني,G08,Part-time,Saudi,سعودي,Yes,Male,26-07-1981,11/10/2023,,Active,Jeddah,جدة,21700,5425,1200,EMP-0491,Under Review
+EMP-0493,Anita Iyer,أنيتا أيار,DEP-12,Legal Assistant,مساعد قانوني,G04,Part-time,Indian,هندي,No,Female,28-10-1999,17-04-2020,,Active,Al Khobar,الخبر,6300,1575,630,EMP-0491,Exceeds Expectations
+EMP-0494,Majed Khalil,ماجد خليل,DEP-12,Legal Assistant,مساعد قانوني,G04,Full-time,Saudi,سعودي,Yes,Male,30-08-1982,27-06-2019,,Active,Jubail,الجبيل,6500,1625,650,EMP-0491,Meets Expectations
+EMP-0495,Ravi Menon,رافي مينون,DEP-12,Compliance Officer,مسؤول التزام,G06,Full-time,Indian,هندي,No,Male,17-12-1993,20-04-2019,,Active,Tabuk,تبوك,16800,4200,1200,EMP-0491,Outstanding
+EMP-0496,Mark Santos,مارك سانتوس,DEP-12,Compliance Officer,مسؤول التزام,G06,Full-time,Filipino,فلبيني,No,Male,7/2/1994,11/5/2026,,Active,Jubail,الجبيل,12600,3150,1200,EMP-0491,Meets Expectations
+EMP-0497,Faisal Al Subaie,فيصل السبيعي,DEP-12,Legal Assistant,مساعد قانوني,G04,Full-time,Saudi,سعودي,Yes,Male,31-08-2001,31-12-2023,,Active,Al Khobar,الخبر,8700,2175,870,EMP-0491,Exceeds Expectations
+EMP-0498,Jose Ramos,خوسيه راموس,DEP-12,Compliance Officer,مسؤول التزام,G06,Full-time,Filipino,فلبيني,No,Male,5/12/1999,9/2/2020,,Active,Abha,أبها,12050,3013,1200,EMP-0491,Meets Expectations
+EMP-0499,Amal Abdelrahman,أمل عبدالرحمن,DEP-12,Compliance Officer,مسؤول التزام,G06,Full-time,Saudi,سعودي,Yes,Female,2/12/1985,24-05-2018,,Active,Tabuk,تبوك,14750,3688,1200,EMP-0491,Meets Expectations
+EMP-0500,Bilal Ahmed,بلال أحمد,DEP-12,Legal Counsel,مستشار قانوني,G08,Full-time,Pakistani,باكستاني,No,Male,2/4/1988,20-09-2019,,Active,Mecca,مكة المكرمة,22250,5563,1200,EMP-0491,Needs Improvement

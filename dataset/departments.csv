@@ -1,0 +1,13 @@
+﻿department_id,department_name_en,department_name_ar,division_en,division_ar,cost_center,location_city,manager_employee_id,headcount_budget,annual_budget_sar
+DEP-01,Operations,العمليات,Operations,العمليات,CC-1010,Al Khobar,EMP-0001,105,14283000
+DEP-02,Sales,المبيعات,Commercial,التجاري,CC-1020,Tabuk,EMP-0091,75,15077000
+DEP-03,Customer Service,خدمة العملاء,Commercial,التجاري,CC-1030,Mecca,EMP-0161,70,7391000
+DEP-04,Supply Chain,سلسلة الإمداد,Operations,العمليات,CC-1040,Abha,EMP-0221,58,6029000
+DEP-05,Engineering & Maintenance,الهندسة والصيانة,Operations,العمليات,CC-1050,Tabuk,EMP-0271,59,7889000
+DEP-06,Information Technology,تقنية المعلومات,Support,المساندة,CC-1060,Dammam,EMP-0321,43,7425000
+DEP-07,Finance,المالية,Corporate,الشركة,CC-1070,Dammam,EMP-0361,40,8425000
+DEP-08,Human Resources,الموارد البشرية,Support,المساندة,CC-1080,Dammam,EMP-0396,31,5402000
+DEP-09,Procurement,المشتريات,Operations,العمليات,CC-1090,Medina,EMP-0426,28,4525000
+DEP-10,Marketing,التسويق,Commercial,التجاري,CC-1100,Mecca,EMP-0451,22,2965000
+DEP-11,"Health, Safety & Environment",الصحة والسلامة والبيئة,Operations,العمليات,CC-1110,Jeddah,EMP-0471,23,4255000
+DEP-12,Legal & Compliance,الشؤون القانونية والالتزام,Corporate,الشركة,CC-1120,Medina,EMP-0491,11,3002000
