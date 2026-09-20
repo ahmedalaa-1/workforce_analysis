@@ -81,6 +81,25 @@ The data was prepared and structured for analysis by:
 
 ---
 
+# 🧩 Data Model
+
+![Data Model](<data_model/Data model.png>)
+
+### Model Overview
+
+The model is built around **employees** as the central table, linked
+to three supporting tables:
+
+- **departments** (1 → *) — connected via `dep_id new key` / `department_id`, providing department, division, cost center, and headcount budget context for each employee.
+- **payroll_monthly** (1 → *) — connected via `emp_new_key`, holding monthly salary, deductions, and gross/net pay for each employee.
+- **attendance_leave_monthly** (1 → *) — connected via `emp_new_key`, holding monthly attendance rate, days present/absent, early departures, and annual leave data for each employee.
+
+This structure lets the dashboard cross-analyze compensation and
+attendance/movement data by department, division, and job grade
+without duplicating employee attributes across tables.
+
+---
+
 # 📊 Dashboard
 
 The dashboard consists of **6 analytical pages**:
@@ -96,7 +115,7 @@ The dashboard consists of **6 analytical pages**:
 
 # 🏠 Page 1 — Home
 
-![Home](images/page-1-home.png)
+![Home](<Dashboard/Home.png>)
 
 ### Purpose
 
@@ -141,7 +160,7 @@ out to every other page in the dashboard.
 
 # 📈 Page 2 — Overview
 
-![Overview](images/page-2-overview.png)
+![Overview](<Dashboard/Overview.png>)
 
 ### Purpose
 
@@ -184,7 +203,7 @@ shows how leavers and headcount are spread across departments.
 
 # 🧩 Page 3 — Distribution
 
-![Distribution](images/page-3-distribution.png)
+![Distribution](<Dashboard/Distribution.png>)
 
 ### Purpose
 
@@ -264,7 +283,7 @@ headcount compares to approved budget.
 
 # 💰 Page 4 — Compensation & Cost
 
-![Compensation & Cost](images/page-4-compensation-cost.png)
+![Compensation & Cost](<Dashboard/Compensation &Cost.png>)
 
 ### Purpose
 
@@ -350,7 +369,7 @@ job grades, job titles, and departments.
 
 # 🧑‍💼 Page 5 — Workforce Profile
 
-![Workforce Profile](images/page-5-workforce-profile.png)
+![Workforce Profile](<Dashboard/Workforce Profile.png>)
 
 ### Purpose
 
@@ -414,7 +433,7 @@ tenure.
 
 # 🔄 Page 6 — Workforce Movement
 
-![Workforce Movement](images/page-6-workforce-movement.png)
+![Workforce Movement](<Dashboard/Workforce Movement.png>)
 
 ### Purpose
 
