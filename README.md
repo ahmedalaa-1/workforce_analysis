@@ -115,7 +115,7 @@ The dashboard consists of **6 analytical pages**:
 
 **[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYWI0Mzg1ODktYTVmNS00MGJlLWJjYmQtMjljNzM3NTc5ZWE5IiwidCI6IjZhYWE0MDU0LTgzNGEtNGJiMi1hYzIwLWRkM2E0NmJiMzg5MiJ9)**
 
-> Replace `YOUR_POWER_BI_SERVICE_LINK` with the published Power BI Service link.
+
 
 ---
 
